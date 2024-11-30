@@ -29,26 +29,10 @@ def parse_page(page_number):
             # Извлекаем данные
             product_id = card.get("id")
             data_sku = card.get("data-sku")
-            # Печатаем полный HTML, чтобы проверить, что мы находим
-            # print(card.prettify())  # раскомментируйте для диагностики
-
-            # Извлекаем имя продукта
-            product_name_tag = card.find("a", class_="product-card-name__text")
-            if not product_name_tag:
-                # Пробуем найти имя через другие вложенные элементы
-                middle_tag = card.find("div", class_="catalog-2-level-product-card__middle")
-                if middle_tag:
-                    name_tag = middle_tag.find("a", class_="product-card-name reset-link catalog-2-level-product-card__name style--catalog-2-level-product-card")
-                    if name_tag:
-                        product_name = name_tag.find("span", class_="product-card-name__text").text.strip()
-                    else:
-                        product_name = "Не найдено"
-                else:
-                    product_name = "Не найдено"
-            else:
-                product_name = product_name_tag.text.strip()
-
-            print(f"Product ID: {product_id}, SKU: {data_sku}, Name: {product_name}")
+            product_name = card.find("span", class_="product-card-name__text").text.strip() if card.find("span", class_="product-card-name__text") else "Неизвестное название"
+            
+            # Выводим информацию
+            print(f"Product ID: {product_id}, SKU: {data_sku}, Название: {product_name}")
         
         return len(product_cards)  # Возвращаем количество карточек продуктов
         
