@@ -2,10 +2,8 @@ from bs4 import BeautifulSoup
 import requests
 
 
-base_url = "https://online.metro-cc.ru/category/rybnye/ohlazhdennaya-ryba?page={}"
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-}
+
+
 
 def parsing_brand(url):
     response = requests.get(url)
@@ -18,7 +16,10 @@ def parsing_brand(url):
 
 
 
-def parse_page(page_number):
+def parse_page(page_number, base_url):
+    headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+}
     url = base_url.format(page_number)
     response = requests.get(url, headers=headers)
     
@@ -59,7 +60,7 @@ def parse_page(page_number):
                 # Извлечение бренда
 
                 brand = parsing_brand(full_product_link)
-                print(f"id товара: {product_id}, Наименование: {product_name}, Ссылка на товар: {full_product_link}, Регулярная цена: {old_price}, Промо цена: {actual_price}, Бренд: {brand}")
+                print(f"id товара: {product_id}; Наименование: {product_name}; Ссылка на товар: {full_product_link}; Регулярная цена: {old_price}; Промо цена: {actual_price}; Бренд: {brand}")
         
         return len(product_cards) if products_container else 0
         #Парсер будет бесконечно искать новые страницы на сайте МЕТРО пока не наткнется на ошибку 404
@@ -71,12 +72,12 @@ def parse_page(page_number):
         return 0
 
 
-def parse_all_pages():
+def parse_all_pages(base_url):
     total_products = 0
     page = 1
     while True:
         print(f"Парсинг страницы {page}...")
-        found_products = parse_page(page)
+        found_products = parse_page(page, base_url)
         if found_products == -1:
             break
         total_products += found_products
@@ -84,6 +85,6 @@ def parse_all_pages():
 
     return print(f"Парсинг завершен. Всего найдено продуктов: {total_products}")
 
-   
-parse_all_pages()
+website = "https://online.metro-cc.ru/category/rybnye/ohlazhdennaya-ryba?page={}"   
+parse_all_pages(website)
 
