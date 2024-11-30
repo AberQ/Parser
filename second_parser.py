@@ -36,7 +36,15 @@ def parse_page(page_number):
                     old_price_rubles = old_price_sum.find("span", class_="product-price__sum-rubles") if old_price_sum else None
                     old_price = old_price_rubles.text.strip() if old_price_rubles else "Цена отсутствует"
 
-                print(f"Product ID: {product_id}, Название: {product_name}, Ссылка: {full_product_link}, Старая цена: {old_price}")
+                # Извлечение текущей цены
+                actual_price_wrapper = card.find("div", class_="product-unit-prices__actual-wrapper")
+                actual_price = None
+                if actual_price_wrapper:
+                    actual_price_sum = actual_price_wrapper.find("span", class_="product-price__sum")
+                    actual_price_rubles = actual_price_sum.find("span", class_="product-price__sum-rubles") if actual_price_sum else None
+                    actual_price = actual_price_rubles.text.strip() if actual_price_rubles else "Цена отсутствует"
+
+                print(f"ID: {product_id}, Название: {product_name}, Ссылка: {full_product_link}, Регулярная цена: {old_price}, Промо-цена: {actual_price}")
         
         return len(product_cards) if products_container else 0
         
