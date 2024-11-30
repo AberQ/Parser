@@ -27,8 +27,8 @@ def parse_page(page_number):
                 # Поиск ссылки на товар
                 middle_section = card.find("div", class_="catalog-2-level-product-card__middle")
                 product_link = middle_section.find("a", href=True)["href"] if middle_section and middle_section.find("a", href=True) else "Ссылка отсутствует"
-                
-                print(f"Product ID: {product_id}, SKU: {data_sku}, Название: {product_name}, Ссылка: {product_link}")
+                full_product_link = "https://online.metro-cc.ru" + product_link
+                print(f"Product ID: {product_id}, SKU: {data_sku}, Название: {product_name}, Ссылка: {full_product_link}")
         
         return len(product_cards) if products_container else 0
         
