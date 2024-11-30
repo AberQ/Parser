@@ -6,7 +6,7 @@ base_url = "https://online.metro-cc.ru/category/rybnye/ohlazhdennaya-ryba?page={
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 }
-count_fish = 0
+
 # Функция для парсинга одной страницы
 def parse_page(page_number):
     url = base_url.format(page_number)
@@ -17,13 +17,13 @@ def parse_page(page_number):
         products_container = soup.find("div", id="products-inner")
         if not products_container:
             print(f"На странице {page_number} не найден контейнер с продуктами.")
-            return False
+            return 0
         
         # Ищем карточки продуктов
         product_cards = products_container.find_all("div", class_="catalog-2-level-product-card")
         if not product_cards:
             print(f"На странице {page_number} нет продуктов.")
-            return False
+            return 0
         
         for card in product_cards:
             # Извлекаем данные
@@ -31,19 +31,21 @@ def parse_page(page_number):
             data_sku = card.get("data-sku")
             print(f"Product ID: {product_id}, SKU: {data_sku}")
         
-        return True
+        return len(product_cards)  # Возвращаем количество карточек продуктов
         
     else:
         print(f"Ошибка {response.status_code} на странице {page_number}.")
-        return False
+        return 0
 
 # Цикл по всем страницам
+total_products = 0
 page = 1
 while True:
     print(f"Парсинг страницы {page}...")
-    success = parse_page(page)
-    if not success:  # Останавливаемся, если страницы закончились
+    found_products = parse_page(page)
+    if found_products == 0:  # Останавливаемся, если страницы закончились
         break
+    total_products += found_products
     page += 1
-    
-print("Парсинг завершен.")
+
+print(f"Парсинг завершен. Всего найдено продуктов: {total_products}")
