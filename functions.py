@@ -47,7 +47,7 @@ def parse_page(page_number, base_url):
                 if old_price_wrapper:
                     old_price_sum = old_price_wrapper.find("span", class_="product-price__sum")
                     old_price_rubles = old_price_sum.find("span", class_="product-price__sum-rubles") if old_price_sum else None
-                    old_price = old_price_rubles.text.strip() if old_price_rubles else "Цена отсутствует"
+                    old_price = old_price_rubles.text.strip() if old_price_rubles else "отсутствует"
 
                 # Извлечение текущей цены
                 actual_price_wrapper = card.find("div", class_="product-unit-prices__actual-wrapper")
@@ -55,7 +55,7 @@ def parse_page(page_number, base_url):
                 if actual_price_wrapper:
                     actual_price_sum = actual_price_wrapper.find("span", class_="product-price__sum")
                     actual_price_rubles = actual_price_sum.find("span", class_="product-price__sum-rubles") if actual_price_sum else None
-                    actual_price = actual_price_rubles.text.strip() if actual_price_rubles else "Цена отсутствует"
+                    actual_price = actual_price_rubles.text.strip() if actual_price_rubles else "отсутствует"
 
                 # Извлечение бренда
 
