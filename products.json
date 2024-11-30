@@ -1,0 +1,322 @@
+[
+    {
+        "id": "135435",
+        "name": "Лосось мурманский филе на коже Тримм А охлажденный, ~1.4кг",
+        "link": "https://online.metro-cc.ru/products/murmanskij-file-na-kozhe-trimm-a",
+        "old_price": "3 779",
+        "actual_price": "3 489",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "378227",
+        "name": "Лосось стейк охлажденный собственное производство Мурманск",
+        "link": "https://online.metro-cc.ru/products/losos-murmanskij-stejk",
+        "old_price": "3 799",
+        "actual_price": "3 399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "409762",
+        "name": "Лосось Inarctica Мурманский охлажденный, ~5-6кг",
+        "link": "https://online.metro-cc.ru/products/losos-murmanskij-5-6kg-inarctica",
+        "old_price": "2 999",
+        "actual_price": "2 699",
+        "brand": "INARCTICA"
+    },
+    {
+        "id": "131577",
+        "name": "Форель филе на коже горная",
+        "link": "https://online.metro-cc.ru/products/file-na-kozhe-osetiya",
+        "old_price": "отсутствует",
+        "actual_price": "2 499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "320046",
+        "name": "Тунец красный филе, ~0.7-1.2кг",
+        "link": "https://online.metro-cc.ru/products/tunec-krasnyj-file-07-12kg",
+        "old_price": "1 699",
+        "actual_price": "1 499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "259560",
+        "name": "Форель Inarctica Морская мурманская охлажденная, ~0.1-1кг",
+        "link": "https://online.metro-cc.ru/products/forel-inarctica-morskaya-murmanskaya-ohlazhdennaya-01-1kg",
+        "old_price": "999",
+        "actual_price": "799",
+        "brand": "INARCTICA"
+    },
+    {
+        "id": "219511",
+        "name": "Форель Inarctica морская ORD охлажденная, ~5-6кг",
+        "link": "https://online.metro-cc.ru/products/5-6kg-forel-morskaya-inarctica-ord",
+        "old_price": "1 729",
+        "actual_price": "1 599",
+        "brand": "INARCTICA"
+    },
+    {
+        "id": "340202",
+        "name": "Форель Карельская потрошеная с головой",
+        "link": "https://online.metro-cc.ru/products/forel-karelskaya-1-2kg",
+        "old_price": "отсутствует",
+        "actual_price": "1 119",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "142893",
+        "name": "Дорада, 400-600г",
+        "link": "https://online.metro-cc.ru/products/dorada-vesovaya-400-600-142893",
+        "old_price": "отсутствует",
+        "actual_price": "1 299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "140386",
+        "name": "Форель Горная Остров потрошеная с головой охлажденная, ~2-3кг",
+        "link": "https://online.metro-cc.ru/products/forel-gornaya-ostrov-psg-3",
+        "old_price": "отсутствует",
+        "actual_price": "1 499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "511783",
+        "name": "Скумбрия неразделанная охлажденная",
+        "link": "https://online.metro-cc.ru/products/skumbriya-nerazdelannaya",
+        "old_price": "539",
+        "actual_price": "499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "572260",
+        "name": "Осетр живой",
+        "link": "https://online.metro-cc.ru/products/osetr-zhivoj-572260",
+        "old_price": "отсутствует",
+        "actual_price": "1 949",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "229984",
+        "name": "Форель горная потрошеная с головой охлажденная, ~3-4кг",
+        "link": "https://online.metro-cc.ru/products/forel-raduzhnaya-potroshenaya-s-golovoy-kirgiziya-ohlazhdennaya-3-4kg",
+        "old_price": "1 599",
+        "actual_price": "1 559",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "250844",
+        "name": "Филе горной форели охлажденное",
+        "link": "https://online.metro-cc.ru/products/file-gornoy-foreli-ohlazhdennoe",
+        "old_price": "отсутствует",
+        "actual_price": "2 489",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "231068",
+        "name": "Нерка стейк, ~150-250г",
+        "link": "https://online.metro-cc.ru/products/nerka-steyk-150-250g",
+        "old_price": "2 399",
+        "actual_price": "1 999",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "553011",
+        "name": "Окунь красный морской потрошеный без головы, ~300-500г",
+        "link": "https://online.metro-cc.ru/products/okun-krasnyj-morskoj-potroshennyj-bez-golovy-300-500g",
+        "old_price": "749",
+        "actual_price": "659",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "85468",
+        "name": "Рыба Попугай индийский океан, ~0.5-1кг",
+        "link": "https://online.metro-cc.ru/products/popugaj-indijskij-okean-05-1-85468",
+        "old_price": "2 299",
+        "actual_price": "2 179",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "659075",
+        "name": "Камбала без головы икряная",
+        "link": "https://online.metro-cc.ru/products/kambala-ikryanaya-bez-golovy",
+        "old_price": "789",
+        "actual_price": "749",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "572308",
+        "name": "Форель живая",
+        "link": "https://online.metro-cc.ru/products/forel-572308",
+        "old_price": "отсутствует",
+        "actual_price": "1 349",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "93036",
+        "name": "Судак неразделанный, ~500г",
+        "link": "https://online.metro-cc.ru/products/sudak-krupnyj-nerazdelannyj-93036",
+        "old_price": "799",
+        "actual_price": "759",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "107703",
+        "name": "Карась красный Индийский Океан охлажденный, ~1-2кг",
+        "link": "https://online.metro-cc.ru/products/krasnyj-karas-1-2-indijskij-okean-107703",
+        "old_price": "2 179",
+        "actual_price": "2 069",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "34224",
+        "name": "Форель Inarctica Мурманская морская охлажденная, ~3-4кг",
+        "link": "https://online.metro-cc.ru/products/forel-morskaya-murmanskaya-3-4kg-inarctica-34224",
+        "old_price": "1 979",
+        "actual_price": "1 669",
+        "brand": "INARCTICA"
+    },
+    {
+        "id": "510530",
+        "name": "Форель радужная, ~2-3кг",
+        "link": "https://online.metro-cc.ru/products/forel-raduzhnaya-krasnoe-myaso-2-3kg",
+        "old_price": "1 299",
+        "actual_price": "1 229",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "478970",
+        "name": "Форель Inarctica Мурманская морская охлажденная, ~5-6кг",
+        "link": "https://online.metro-cc.ru/products/forel-murmanskaya-morskaya-5-6kg-inarctica",
+        "old_price": "2 349",
+        "actual_price": "2 089",
+        "brand": "INARCTICA"
+    },
+    {
+        "id": "272078",
+        "name": "Форель озерная потрошеная с головой охлажденная, ~1-2кг",
+        "link": "https://online.metro-cc.ru/products/1-2kg-forel-ozernaya-psg-okhl",
+        "old_price": "1 199",
+        "actual_price": "1 099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "435035",
+        "name": "Треска потрошеная без головы охлажденная, ~1-2кг",
+        "link": "https://online.metro-cc.ru/products/treska-potroshennaya-bez-golovy-1kg",
+        "old_price": "779",
+        "actual_price": "599",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "30027",
+        "name": "Карп потрошеный с головой охлажденный",
+        "link": "https://online.metro-cc.ru/products/karp-potroshenyj",
+        "old_price": "559",
+        "actual_price": "509",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "572309",
+        "name": "Карп живой",
+        "link": "https://online.metro-cc.ru/products/karp-zhivoj",
+        "old_price": "отсутствует",
+        "actual_price": "579",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "256585",
+        "name": "Сазан филе на коже, ~300г",
+        "link": "https://online.metro-cc.ru/products/300g-sazan-file-nk",
+        "old_price": "949",
+        "actual_price": "849",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "113874",
+        "name": "Лосось Мурманск ORD охлажденный, ~5-6кг",
+        "link": "https://online.metro-cc.ru/products/3-4losos-ohlazhdennyj-farery-i",
+        "old_price": "отсутствует",
+        "actual_price": "2 359",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "214597",
+        "name": "Групер мраморный Индийский океан, ~0.5-1кг",
+        "link": "https://online.metro-cc.ru/products/okun-pyatnistyj-05-1-indijskij-okean-214597",
+        "old_price": "2 399",
+        "actual_price": "2 199",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "247371",
+        "name": "Тунец желтоперый стейк охлажденный, 500г",
+        "link": "https://online.metro-cc.ru/products/500g-tunets-steyk-gms-ohl",
+        "old_price": "799",
+        "actual_price": "759",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "404108",
+        "name": "Осетр охлажденный, ~1.5-3кг",
+        "link": "https://online.metro-cc.ru/products/osetr-1-5-3kg",
+        "old_price": "2 399",
+        "actual_price": "1 899",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "52291",
+        "name": "Форель мурманская филе на коже охлажденная",
+        "link": "https://online.metro-cc.ru/products/art-52291",
+        "old_price": "3 299",
+        "actual_price": "3 059",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "221825",
+        "name": "Форель горная стейки охлажденная, ~200г",
+        "link": "https://online.metro-cc.ru/products/200g-forel-gornaya-steyki-ohl",
+        "old_price": "2 199",
+        "actual_price": "1 799",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "238352",
+        "name": "Форель карельская стейки охлажденная",
+        "link": "https://online.metro-cc.ru/products/forel-karelskaya-steyki-ohl",
+        "old_price": "отсутствует",
+        "actual_price": "1 899",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "557223",
+        "name": "Форель Карельская потрошеная с головой охлажденная, ~3-4кг",
+        "link": "https://online.metro-cc.ru/products/forel-kareliya-potroshenaya-3-kg",
+        "old_price": "1 459",
+        "actual_price": "1 379",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "260170",
+        "name": "Форель стейки охлажденные, ~300-600г",
+        "link": "https://online.metro-cc.ru/products/forel-prihvostnaya-chast",
+        "old_price": "2 699",
+        "actual_price": "2 559",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "256043",
+        "name": "Форель морская мурманская ORD, ~1-2кг",
+        "link": "https://online.metro-cc.ru/products/forel-morskaya-murmanskaya-2-3kg",
+        "old_price": "999",
+        "actual_price": "899",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "274361",
+        "name": "Форель Inarctica Мурманская охлажденная ORD, ~0.1-1кг",
+        "link": "https://online.metro-cc.ru/products/01-1kg-forel-murmanskaya-inarctica-ord-ohl",
+        "old_price": "599",
+        "actual_price": "499",
+        "brand": "INARCTICA"
+    }
+]
