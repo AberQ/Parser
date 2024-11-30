@@ -7,6 +7,16 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 }
 
+def parsing_brand(url):
+    response = requests.get(url)
+
+    soup = BeautifulSoup(response.content, 'html.parser')
+    link = soup.find('a', class_="product-attributes__list-item-link reset-link active-blue-text")
+
+    if link:
+        return link.get_text().strip()
+
+
 
 def parse_page(page_number):
     url = base_url.format(page_number)
@@ -28,6 +38,8 @@ def parse_page(page_number):
                 product_link = middle_section.find("a", href=True)["href"] if middle_section and middle_section.find("a", href=True) else "Ссылка отсутствует"
                 full_product_link = "https://online.metro-cc.ru" + product_link
                 
+
+
                 # Извлечение старой цены
                 old_price_wrapper = card.find("div", class_="product-unit-prices__old-wrapper")
                 old_price = None
@@ -44,7 +56,10 @@ def parse_page(page_number):
                     actual_price_rubles = actual_price_sum.find("span", class_="product-price__sum-rubles") if actual_price_sum else None
                     actual_price = actual_price_rubles.text.strip() if actual_price_rubles else "Цена отсутствует"
 
-                print(f"id товара: {product_id}, Наименование: {product_name}, Ссылка на товар: {full_product_link}, Регулярная цена: {old_price}, Промо цена: {actual_price}")
+                # Извлечение бренда
+
+                brand = parsing_brand(full_product_link)
+                print(f"id товара: {product_id}, Наименование: {product_name}, Ссылка на товар: {full_product_link}, Регулярная цена: {old_price}, Промо цена: {actual_price}, Бренд: {brand}")
         
         return len(product_cards) if products_container else 0
         #Парсер будет бесконечно искать новые страницы на сайте МЕТРО пока не наткнется на ошибку 404
