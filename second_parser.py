@@ -14,27 +14,18 @@ def parse_page(page_number):
     
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # Поиск контейнера с продуктами
         products_container = soup.find("div", id="products-inner")
-        if not products_container:
-            print(f"На странице {page_number} не найден контейнер с продуктами.")
-            return 0
+        if products_container:
+            product_cards = products_container.find_all("div", class_="catalog-2-level-product-card product-card subcategory-or-type__products-item with-prices-drop")
+            for card in product_cards:
+                product_id = card.get("id")
+                data_sku = card.get("data-sku")
+                product_name = card.find("span", class_="product-card-name__text").text.strip() if card.find("span", class_="product-card-name__text") else "Неизвестное название"
+                print(f"Product ID: {product_id}, SKU: {data_sku}, Название: {product_name}")
         
-        # Ищем карточки продуктов
-        product_cards = products_container.find_all("div", class_="catalog-2-level-product-card product-card subcategory-or-type__products-item with-prices-drop")
-        if not product_cards:
-            print(f"На странице {page_number} нет продуктов.")
-            return 0
-        
-        for card in product_cards:
-            # Извлекаем данные
-            product_id = card.get("id")
-            data_sku = card.get("data-sku")
-            product_name = card.find("span", class_="product-card-name__text").text.strip() if card.find("span", class_="product-card-name__text") else "Неизвестное название"
-            
-            # Выводим информацию
-            print(f"Product ID: {product_id}, SKU: {data_sku}, Название: {product_name}")
-        
-        return len(product_cards)  # Возвращаем количество карточек продуктов
+        return len(product_cards) if products_container else 0
         
     elif response.status_code == 404:
         print(f"Ошибка 404: Страница {page_number} не найдена.")
