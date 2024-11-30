@@ -85,6 +85,5 @@ def parse_all_pages(base_url):
 
     return print(f"Парсинг завершен. Всего найдено продуктов: {total_products}")
 
-website = "https://online.metro-cc.ru/category/rybnye/ohlazhdennaya-ryba?page={}"   
-parse_all_pages(website)
+
 
