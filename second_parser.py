@@ -20,7 +20,7 @@ def parse_page(page_number):
             return 0
         
         # Ищем карточки продуктов
-        product_cards = products_container.find_all("div", class_="catalog-2-level-product-card")
+        product_cards = products_container.find_all("div", class_="catalog-2-level-product-card product-card subcategory-or-type__products-item with-prices-drop")
         if not product_cards:
             print(f"На странице {page_number} нет продуктов.")
             return 0
@@ -36,6 +36,9 @@ def parse_page(page_number):
         
         return len(product_cards)  # Возвращаем количество карточек продуктов
         
+    elif response.status_code == 404:
+        print(f"Ошибка 404: Страница {page_number} не найдена.")
+        return -1  # Возвращаем -1, чтобы остановить цикл на ошибке 404
     else:
         print(f"Ошибка {response.status_code} на странице {page_number}.")
         return 0
@@ -46,7 +49,7 @@ page = 1
 while True:
     print(f"Парсинг страницы {page}...")
     found_products = parse_page(page)
-    if found_products == 0:  # Останавливаемся, если страницы закончились
+    if found_products == -1:  # Останавливаемся на ошибке 404
         break
     total_products += found_products
     page += 1
