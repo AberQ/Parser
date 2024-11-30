@@ -21,14 +21,14 @@ def parse_page(page_number):
             product_cards = products_container.find_all("div", class_="catalog-2-level-product-card product-card subcategory-or-type__products-item with-prices-drop")
             for card in product_cards:
                 product_id = card.get("id")
-                data_sku = card.get("data-sku")
+                
                 product_name = card.find("span", class_="product-card-name__text").text.strip() if card.find("span", class_="product-card-name__text") else "Неизвестное название"
                 
                 # Поиск ссылки на товар
                 middle_section = card.find("div", class_="catalog-2-level-product-card__middle")
                 product_link = middle_section.find("a", href=True)["href"] if middle_section and middle_section.find("a", href=True) else "Ссылка отсутствует"
                 full_product_link = "https://online.metro-cc.ru" + product_link
-                print(f"Product ID: {product_id}, SKU: {data_sku}, Название: {product_name}, Ссылка: {full_product_link}")
+                print(f"Product ID: {product_id}, Название: {product_name}, Ссылка: {full_product_link}")
         
         return len(product_cards) if products_container else 0
         
