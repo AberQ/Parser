@@ -23,7 +23,12 @@ def parse_page(page_number):
                 product_id = card.get("id")
                 data_sku = card.get("data-sku")
                 product_name = card.find("span", class_="product-card-name__text").text.strip() if card.find("span", class_="product-card-name__text") else "Неизвестное название"
-                print(f"Product ID: {product_id}, SKU: {data_sku}, Название: {product_name}")
+                
+                # Поиск ссылки на товар
+                middle_section = card.find("div", class_="catalog-2-level-product-card__middle")
+                product_link = middle_section.find("a", href=True)["href"] if middle_section and middle_section.find("a", href=True) else "Ссылка отсутствует"
+                
+                print(f"Product ID: {product_id}, SKU: {data_sku}, Название: {product_name}, Ссылка: {product_link}")
         
         return len(product_cards) if products_container else 0
         
