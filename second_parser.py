@@ -21,14 +21,22 @@ def parse_page(page_number):
             product_cards = products_container.find_all("div", class_="catalog-2-level-product-card product-card subcategory-or-type__products-item with-prices-drop")
             for card in product_cards:
                 product_id = card.get("id")
-                
                 product_name = card.find("span", class_="product-card-name__text").text.strip() if card.find("span", class_="product-card-name__text") else "Неизвестное название"
                 
                 # Поиск ссылки на товар
                 middle_section = card.find("div", class_="catalog-2-level-product-card__middle")
                 product_link = middle_section.find("a", href=True)["href"] if middle_section and middle_section.find("a", href=True) else "Ссылка отсутствует"
                 full_product_link = "https://online.metro-cc.ru" + product_link
-                print(f"Product ID: {product_id}, Название: {product_name}, Ссылка: {full_product_link}")
+                
+                # Извлечение старой цены
+                old_price_wrapper = card.find("div", class_="product-unit-prices__old-wrapper")
+                old_price = None
+                if old_price_wrapper:
+                    old_price_sum = old_price_wrapper.find("span", class_="product-price__sum")
+                    old_price_rubles = old_price_sum.find("span", class_="product-price__sum-rubles") if old_price_sum else None
+                    old_price = old_price_rubles.text.strip() if old_price_rubles else "Цена отсутствует"
+
+                print(f"Product ID: {product_id}, Название: {product_name}, Ссылка: {full_product_link}, Старая цена: {old_price}")
         
         return len(product_cards) if products_container else 0
         
