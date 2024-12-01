@@ -1,322 +1,2770 @@
 [
     {
-        "id": "135435",
-        "name": "Лосось мурманский филе на коже Тримм А охлажденный, ~1.4кг",
-        "link": "https://online.metro-cc.ru/products/murmanskij-file-na-kozhe-trimm-a",
-        "old_price": "3779",
-        "actual_price": "3489",
-        "brand": "INARCTICA"
+        "id": "122743",
+        "name": "Кофе Нескафе Голд растворимый сублимированный с добавлением натурального жареного молотого кофе, 900г",
+        "link": "https://online.metro-cc.ru/products/kofe-nescafe-gold-rastvorimiy-sublimirovanniy-s-dobavleniem-naturalnogo-zharenogo-molotogo-kofe-900g",
+        "common_price": "2149",
+        "promo_price": "1999",
+        "brand": "ABSOLUT"
     },
     {
-        "id": "378227",
-        "name": "Лосось стейк охлажденный собственное производство Мурманск",
-        "link": "https://online.metro-cc.ru/products/losos-murmanskij-stejk",
-        "old_price": "3799",
-        "actual_price": "3399",
+        "id": "62828",
+        "name": "Кофе Julius Meinl Президент классическая коллекция в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/julius-meinl-prezident-1000g",
+        "common_price": "2349",
+        "promo_price": "1399",
+        "brand": "НЕСКАФЕ"
+    },
+    {
+        "id": "230303",
+        "name": "Кофе Monarch Original растворимый, 500г",
+        "link": "https://online.metro-cc.ru/products/kofe-monarch-original-rastvorimyy-500g",
+        "common_price": "1799",
+        "promo_price": "1299",
+        "brand": "PIAZZA DEL CAFFE"
+    },
+    {
+        "id": "247918",
+        "name": "Кофе Poetti Professional Aroma Vending зерновой, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-poetti-professional-aroma-vending-zernovoy",
+        "common_price": "1999",
+        "promo_price": "1099",
+        "brand": "FRESCO"
+    },
+    {
+        "id": "287768",
+        "name": "RIOBA Кофе в зернах натуральный жареный 100% арабика Espresso, 1кг",
+        "link": "https://online.metro-cc.ru/products/rioba-v-zernah-naturalnyj-zharenyj-100-arabika-espresso-1kg",
+        "common_price": "2259",
+        "promo_price": "1599",
+        "brand": "RIOBA"
+    },
+    {
+        "id": "218718",
+        "name": "Кофе Poetti Daily Mokka в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-poetti-daily-mokka-v-zernah",
+        "common_price": "1729",
+        "promo_price": "1099",
+        "brand": "BUSHIDO"
+    },
+    {
+        "id": "112993",
+        "name": "Кофе Egoiste трюфель крема в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-v-zernah-egoiste-tryufel-krema-1kg",
+        "common_price": "2319",
+        "promo_price": "1699",
+        "brand": "L'OR"
+    },
+    {
+        "id": "580564",
+        "name": "Кофе Egoiste Arabica Premium натуральный жареный в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/egoiste-v-zernah-naturalnyj-zharenyj-arabica-premium-1kg",
+        "common_price": "2199",
+        "promo_price": "1699",
+        "brand": "VERGNANO"
+    },
+    {
+        "id": "36574",
+        "name": "Кофе Bushido Red Katana в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/bushido-red-1000g",
+        "common_price": "2519",
+        "promo_price": "1899",
+        "brand": "JARDIN"
+    },
+    {
+        "id": "228285",
+        "name": "Кофе Egoiste Captain в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-egoiste-captain-v-zernah",
+        "common_price": "2459",
+        "promo_price": "1699",
+        "brand": "ЖИВОЙ КОФЕ"
+    },
+    {
+        "id": "102232",
+        "name": "Кофе Ambassador Gold Label в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/ambassador-gold-label-v-zernah-1000g",
+        "common_price": "1999",
+        "promo_price": "1099",
+        "brand": "MACCOFFEE"
+    },
+    {
+        "id": "654819",
+        "name": "Кофе Julius Meinl Espresso Premium Collection в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/v-zernah-julius-meinl-espresso-premium-kollekciya-1000g",
+        "common_price": "2649",
+        "promo_price": "1999",
+        "brand": "ЖОКЕЙ"
+    },
+    {
+        "id": "287769",
+        "name": "RIOBA Кофе в зернах натуральный жареный 80:20, 1кг",
+        "link": "https://online.metro-cc.ru/products/rioba-v-zernah-naturalnyj-zharenyj-gold-1kg",
+        "common_price": "2019",
+        "promo_price": "1499",
+        "brand": "CARTE NOIRE"
+    },
+    {
+        "id": "226341",
+        "name": "Кофе Lebo Classic в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-lebo-classic-v-zernah",
+        "common_price": "2039",
+        "promo_price": "1449",
+        "brand": "MACCOFFEE"
+    },
+    {
+        "id": "101497",
+        "name": "Кофе Jardin Eclair в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/jardin-eclair-1000g",
+        "common_price": "2159",
+        "promo_price": "1149",
+        "brand": "ЖИВОЙ КОФЕ"
+    },
+    {
+        "id": "104561",
+        "name": "Кофе Fresco Blend в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/fresco-blend-1000g",
+        "common_price": "отсутствует",
+        "promo_price": "1399",
+        "brand": "ЖОКЕЙ"
+    },
+    {
+        "id": "215682",
+        "name": "Кофе Jardin Oro в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-jardin-original-oro-zernovoy",
+        "common_price": "2389",
+        "promo_price": "1299",
+        "brand": "JARDIN"
+    },
+    {
+        "id": "365548",
+        "name": "Кофе Alta Roma Espresso в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-alta-roma-espresso-v-zernakh-1kg",
+        "common_price": "1319",
+        "promo_price": "999",
+        "brand": "MACCOFFEE"
+    },
+    {
+        "id": "287770",
+        "name": "RIOBA Кофе в зернах натуральный жареный Silver, 1кг",
+        "link": "https://online.metro-cc.ru/products/rioba-v-zernah-naturalnyj-zharenyj-silver-1kg",
+        "common_price": "1529",
+        "promo_price": "1299",
+        "brand": "ILLY"
+    },
+    {
+        "id": "629014",
+        "name": "Кофе Kimbo Aroma Gold Arabica в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kimbo-v-zernah-aroma-gold-arabica-1kg",
+        "common_price": "3799",
+        "promo_price": "2399",
+        "brand": "VERGNANO"
+    },
+    {
+        "id": "230306",
+        "name": "Кофе Monarch Milligrano растворимый с молотым, 200г",
+        "link": "https://online.metro-cc.ru/products/kofe-monarch-milligrano-rastvorimyy-s-molotym-200g",
+        "common_price": "849",
+        "promo_price": "599",
+        "brand": "ALTA ROMA"
+    },
+    {
+        "id": "218716",
+        "name": "Кофе Poetti Leggenda Oro в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-poetti-leggenda-oro-v-zernah",
+        "common_price": "2589",
+        "promo_price": "1499",
+        "brand": "RIOBA"
+    },
+    {
+        "id": "665877",
+        "name": "Кофе Ambassador Blue Label в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/ambassador-blue-label-zernovoj-1000-g",
+        "common_price": "2599",
+        "promo_price": "1099",
+        "brand": "MISCELA D'ORO"
+    },
+    {
+        "id": "654818",
+        "name": "Кофе Julius Meinl Сaffe Crema Premium Collection в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/julius-meinl-krema-premium-1kg",
+        "common_price": "2529",
+        "promo_price": "1899",
+        "brand": "ЖОКЕЙ"
+    },
+    {
+        "id": "218712",
+        "name": "Кофе Poetti Leggenda Original в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-poetti-leggenda-original-v-zernah",
+        "common_price": "2589",
+        "promo_price": "1499",
+        "brand": "RIOBA"
+    },
+    {
+        "id": "561302",
+        "name": "Кофе Jardin Americano Crema в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/jardin-americano-crema-1000-g",
+        "common_price": "1899",
+        "promo_price": "1189",
+        "brand": "JULIUS MEINL"
+    },
+    {
+        "id": "218720",
+        "name": "Кофе Poetti Daily Arabica в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-poetti-daily-arabica-v-zernah",
+        "common_price": "1959",
+        "promo_price": "999",
+        "brand": "MISCELA D'ORO"
+    },
+    {
+        "id": "110546",
+        "name": "Кофе Bushido Black Katana в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-zernovoj-bushido-black-katana-1000g",
+        "common_price": "2999",
+        "promo_price": "1899",
+        "brand": "ITALCO"
+    },
+    {
+        "id": "133439",
+        "name": "RIOBA Кофе в капсулах Dolce Gusto Capuccino 8 порций 16 капсул, 192г",
+        "link": "https://online.metro-cc.ru/products/192g-kofe-v-kaps-rioba-dolce-gusto-cappuccino",
+        "common_price": "509",
+        "promo_price": "399",
+        "brand": "MACCOFFEE"
+    },
+    {
+        "id": "598958",
+        "name": "Кофе Bushido Kodo растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/bushido-v-kristallah-kodo-95g",
+        "common_price": "1059",
+        "promo_price": "749",
+        "brand": "RIOBA"
+    },
+    {
+        "id": "59409",
+        "name": "Кофе Fresco Arabica Solo в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/fresco-arabica-solo-v-zernah-1000-g",
+        "common_price": "отсутствует",
+        "promo_price": "1399",
         "brand": "Без бренда"
     },
     {
-        "id": "409762",
-        "name": "Лосось Inarctica Мурманский охлажденный, ~5-6кг",
-        "link": "https://online.metro-cc.ru/products/losos-murmanskij-5-6kg-inarctica",
-        "old_price": "2999",
-        "actual_price": "2699",
+        "id": "224737",
+        "name": "Кофе Monarch Original растворимый, 190г",
+        "link": "https://online.metro-cc.ru/products/190g-kofe-monarch-original-rastvorimyy-st",
+        "common_price": "699",
+        "promo_price": "599",
         "brand": "Без бренда"
     },
     {
-        "id": "272078",
-        "name": "Форель озерная потрошеная с головой охлажденная, ~1-2кг",
-        "link": "https://online.metro-cc.ru/products/1-2kg-forel-ozernaya-psg-okhl",
-        "old_price": "1199",
-        "actual_price": "1099",
+        "id": "72873",
+        "name": "Кофе Egoiste Double Espresso, 100г",
+        "link": "https://online.metro-cc.ru/products/egoiste-double-espresso-100g",
+        "common_price": "799",
+        "promo_price": "459",
         "brand": "Без бренда"
     },
     {
-        "id": "320046",
-        "name": "Тунец красный филе, ~0.7-1.2кг",
-        "link": "https://online.metro-cc.ru/products/tunec-krasnyj-file-07-12kg",
-        "old_price": "1699",
-        "actual_price": "1499",
+        "id": "384608",
+        "name": "Кофе Julius Meinl Юбилейный в зернах, 500г",
+        "link": "https://online.metro-cc.ru/products/julius-meinl-v-zernah-naturalnyj-zharenyj-jubileum-500g",
+        "common_price": "1299",
+        "promo_price": "899",
         "brand": "Без бренда"
     },
     {
-        "id": "219511",
-        "name": "Форель Inarctica морская ORD охлажденная, ~5-6кг",
-        "link": "https://online.metro-cc.ru/products/5-6kg-forel-morskaya-inarctica-ord",
-        "old_price": "1729",
-        "actual_price": "1599",
-        "brand": "INARCTICA"
-    },
-    {
-        "id": "142893",
-        "name": "Дорада, 400-600г",
-        "link": "https://online.metro-cc.ru/products/dorada-vesovaya-400-600-142893",
-        "old_price": "отсутствует",
-        "actual_price": "1299",
+        "id": "654820",
+        "name": "Кофе Julius Meinl Caffe Crema Intenso Trend Collection в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/v-zernah-julius-meinl-krema-intenso-trend-kollekciya-1000g",
+        "common_price": "1999",
+        "promo_price": "1499",
         "brand": "Без бренда"
     },
     {
-        "id": "140386",
-        "name": "Форель Горная Остров потрошеная с головой охлажденная, ~2-3кг",
-        "link": "https://online.metro-cc.ru/products/forel-gornaya-ostrov-psg-3",
-        "old_price": "отсутствует",
-        "actual_price": "1499",
+        "id": "433965",
+        "name": "Кофе Нескафе Голд растворимый, 190г",
+        "link": "https://online.metro-cc.ru/products/nescafe-gold-190g",
+        "common_price": "699",
+        "promo_price": "499",
         "brand": "Без бренда"
     },
     {
-        "id": "511783",
-        "name": "Скумбрия неразделанная охлажденная",
-        "link": "https://online.metro-cc.ru/products/skumbriya-nerazdelannaya",
-        "old_price": "539",
-        "actual_price": "499",
+        "id": "228291",
+        "name": "Кофе Egoiste Voyage в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-egoiste-voyage-v-zernah",
+        "common_price": "2369",
+        "promo_price": "1699",
         "brand": "Без бренда"
     },
     {
-        "id": "572260",
-        "name": "Осетр живой",
-        "link": "https://online.metro-cc.ru/products/osetr-zhivoj-572260",
-        "old_price": "отсутствует",
-        "actual_price": "1949",
+        "id": "243175",
+        "name": "RIOBA Кофе в капсулах Dolce Gusto Latte Macciato 8 порций 16 капсул, 192г х 3 шт",
+        "link": "https://online.metro-cc.ru/products/rioba-kofe-v-kapsulah-dolce-gusto-latte-macciato-8-portsiy-16-kapsul-192g-h-3-sht",
+        "common_price": "отсутствует",
+        "promo_price": "1527",
         "brand": "Без бренда"
     },
     {
-        "id": "229984",
-        "name": "Форель горная потрошеная с головой охлажденная, ~3-4кг",
-        "link": "https://online.metro-cc.ru/products/forel-raduzhnaya-potroshenaya-s-golovoy-kirgiziya-ohlazhdennaya-3-4kg",
-        "old_price": "1599",
-        "actual_price": "1559",
+        "id": "59005",
+        "name": "Кофе Bushido Red Katana в зернах, 227г",
+        "link": "https://online.metro-cc.ru/products/art-59005",
+        "common_price": "699",
+        "promo_price": "469",
         "brand": "Без бренда"
     },
     {
-        "id": "231068",
-        "name": "Нерка стейк, ~150-250г",
-        "link": "https://online.metro-cc.ru/products/nerka-steyk-150-250g",
-        "old_price": "2399",
-        "actual_price": "1999",
+        "id": "245277",
+        "name": "Кофе Fresco Espresso Italiano зерновой, 900г",
+        "link": "https://online.metro-cc.ru/products/kofe-fresco-espresso-italiano-zernovoy-900g",
+        "common_price": "2059",
+        "promo_price": "1199",
         "brand": "Без бренда"
     },
     {
-        "id": "553011",
-        "name": "Окунь красный морской потрошеный без головы, ~300-500г",
-        "link": "https://online.metro-cc.ru/products/okun-krasnyj-morskoj-potroshennyj-bez-golovy-300-500g",
-        "old_price": "749",
-        "actual_price": "659",
+        "id": "530966",
+        "name": "RIOBA Кофе в капсулах Cremoso для кофемашин Nespresso 11шт, 55г",
+        "link": "https://online.metro-cc.ru/products/rioba-dlya-kofemashin-cremoso-11x5g",
+        "common_price": "275",
+        "promo_price": "239",
         "brand": "Без бренда"
     },
     {
-        "id": "85468",
-        "name": "Рыба Попугай индийский океан, ~0.5-1кг",
-        "link": "https://online.metro-cc.ru/products/popugaj-indijskij-okean-05-1-85468",
-        "old_price": "2299",
-        "actual_price": "2179",
+        "id": "104610",
+        "name": "Кофе Julius Meinl Юбилейный классическая коллекция в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/yubilejnyj-julius-meinl-1000g",
+        "common_price": "2459",
+        "promo_price": "1899",
         "brand": "Без бренда"
     },
     {
-        "id": "572308",
-        "name": "Форель живая",
-        "link": "https://online.metro-cc.ru/products/forel-572308",
-        "old_price": "отсутствует",
-        "actual_price": "1349",
+        "id": "8352",
+        "name": "RIOBA Кофе в капсулах Dolce Gusto Americano 16шт, 112г",
+        "link": "https://online.metro-cc.ru/products/rioba-dolce-gusto-americano-16sht",
+        "common_price": "509",
+        "promo_price": "429",
         "brand": "Без бренда"
     },
     {
-        "id": "572309",
-        "name": "Карп живой",
-        "link": "https://online.metro-cc.ru/products/karp-zhivoj",
-        "old_price": "отсутствует",
-        "actual_price": "579",
+        "id": "101496",
+        "name": "Кофе Jardin Dessert Capuccino в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/jardin-dessert-capuccino-1000g",
+        "common_price": "2159",
+        "promo_price": "1149",
         "brand": "Без бренда"
     },
     {
-        "id": "107703",
-        "name": "Карась красный Индийский Океан охлажденный, ~1-2кг",
-        "link": "https://online.metro-cc.ru/products/krasnyj-karas-1-2-indijskij-okean-107703",
-        "old_price": "2179",
-        "actual_price": "2069",
+        "id": "624869",
+        "name": "Кофе Origo Cafe Crema в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/art-624869",
+        "common_price": "2599",
+        "promo_price": "1499",
         "brand": "Без бренда"
     },
     {
-        "id": "34224",
-        "name": "Форель Inarctica Мурманская морская охлажденная, ~3-4кг",
-        "link": "https://online.metro-cc.ru/products/forel-morskaya-murmanskaya-3-4kg-inarctica-34224",
-        "old_price": "1979",
-        "actual_price": "1669",
-        "brand": "INARCTICA"
-    },
-    {
-        "id": "131577",
-        "name": "Форель филе на коже горная",
-        "link": "https://online.metro-cc.ru/products/file-na-kozhe-osetiya",
-        "old_price": "отсутствует",
-        "actual_price": "2499",
+        "id": "637202",
+        "name": "Кофе в капсулах L’or Espresso Ristretto для кофемашин Nespresso 10шт, 52г",
+        "link": "https://online.metro-cc.ru/products/l-rsquoor-ristretto-52-g",
+        "common_price": "429",
+        "promo_price": "379",
         "brand": "Без бренда"
     },
     {
-        "id": "510530",
-        "name": "Форель радужная, ~2-3кг",
-        "link": "https://online.metro-cc.ru/products/forel-raduzhnaya-krasnoe-myaso-2-3kg",
-        "old_price": "1299",
-        "actual_price": "1229",
+        "id": "72533",
+        "name": "Набор кофе в капсулах Coffesso для кофемашин Nespresso ассорти 50шт, 250г",
+        "link": "https://online.metro-cc.ru/products/coffesso-nabor-v-kapsulah-50-sht-h-5-g",
+        "common_price": "1669",
+        "promo_price": "899",
         "brand": "Без бренда"
     },
     {
-        "id": "478970",
-        "name": "Форель Inarctica Мурманская морская охлажденная, ~5-6кг",
-        "link": "https://online.metro-cc.ru/products/forel-murmanskaya-morskaya-5-6kg-inarctica",
-        "old_price": "2349",
-        "actual_price": "2089",
-        "brand": "INARCTICA"
-    },
-    {
-        "id": "259560",
-        "name": "Форель Inarctica Морская мурманская охлажденная, ~0.1-1кг",
-        "link": "https://online.metro-cc.ru/products/forel-inarctica-morskaya-murmanskaya-ohlazhdennaya-01-1kg",
-        "old_price": "999",
-        "actual_price": "799",
-        "brand": "INARCTICA"
-    },
-    {
-        "id": "435035",
-        "name": "Треска потрошеная без головы охлажденная, ~1-2кг",
-        "link": "https://online.metro-cc.ru/products/treska-potroshennaya-bez-golovy-1kg",
-        "old_price": "779",
-        "actual_price": "599",
+        "id": "218719",
+        "name": "Кофе Poetti Daily Classic Crema в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-poetti-daily-classic-crema-v-zernah",
+        "common_price": "1679",
+        "promo_price": "1199",
         "brand": "Без бренда"
     },
     {
-        "id": "340202",
-        "name": "Форель Карельская потрошеная с головой",
-        "link": "https://online.metro-cc.ru/products/forel-karelskaya-1-2kg",
-        "old_price": "отсутствует",
-        "actual_price": "1119",
+        "id": "228232",
+        "name": "Кофе Piazza del Caffe Espresso Forte в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-piazza-del-caffe-espresso-forte-zerno",
+        "common_price": "отсутствует",
+        "promo_price": "1099",
         "brand": "Без бренда"
     },
     {
-        "id": "30027",
-        "name": "Карп потрошеный с головой охлажденный",
-        "link": "https://online.metro-cc.ru/products/karp-potroshenyj",
-        "old_price": "559",
-        "actual_price": "509",
+        "id": "259882",
+        "name": "Кофе Нескафе Gold Aroma Intenso растворимый сублимированный с добавлением натурального жареного молотого кофе, 800г",
+        "link": "https://online.metro-cc.ru/products/800g-kofe-nescafe-gold-aroma-intenso-rastvorimyy-sublim",
+        "common_price": "2519",
+        "promo_price": "1799",
         "brand": "Без бренда"
     },
     {
-        "id": "93036",
-        "name": "Судак неразделанный, ~500г",
-        "link": "https://online.metro-cc.ru/products/sudak-krupnyj-nerazdelannyj-93036",
-        "old_price": "799",
-        "actual_price": "759",
+        "id": "31895",
+        "name": "Кофе Egoiste Arabica Premium натуральный жареный в зернах, 1кг x 4 шт",
+        "link": "https://online.metro-cc.ru/products/v-zernah-egoiste-noir-100-arabika-1kg",
+        "common_price": "9036",
+        "promo_price": "5996",
         "brand": "Без бренда"
     },
     {
-        "id": "113874",
-        "name": "Лосось Мурманск ORD охлажденный, ~5-6кг",
-        "link": "https://online.metro-cc.ru/products/3-4losos-ohlazhdennyj-farery-i",
-        "old_price": "отсутствует",
-        "actual_price": "2359",
+        "id": "226466",
+        "name": "Кофе Alta Roma Caffe Latte в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-alta-roma-caffe-latte-v-zernakh-1kg",
+        "common_price": "1269",
+        "promo_price": "1099",
         "brand": "Без бренда"
     },
     {
-        "id": "214597",
-        "name": "Групер мраморный Индийский океан, ~0.5-1кг",
-        "link": "https://online.metro-cc.ru/products/okun-pyatnistyj-05-1-indijskij-okean-214597",
-        "old_price": "2399",
-        "actual_price": "2199",
+        "id": "530965",
+        "name": "RIOBA Кофе в капсулах Armonioso для кофемашин Nespresso 11шт, 55г",
+        "link": "https://online.metro-cc.ru/products/rioba-dlya-kofemashin-armonioso-10x5g",
+        "common_price": "275",
+        "promo_price": "239",
         "brand": "Без бренда"
     },
     {
-        "id": "247371",
-        "name": "Тунец желтоперый стейк охлажденный, 500г",
-        "link": "https://online.metro-cc.ru/products/500g-tunets-steyk-gms-ohl",
-        "old_price": "799",
-        "actual_price": "759",
+        "id": "228295",
+        "name": "Кофе Egoiste Truffle растворимый сублимированный, 95г",
+        "link": "https://online.metro-cc.ru/products/kofe-egoiste-truffle-rastvorimyy-sublimirovannyy-95g",
+        "common_price": "1169",
+        "promo_price": "699",
         "brand": "Без бренда"
     },
     {
-        "id": "404108",
-        "name": "Осетр охлажденный, ~1.5-3кг",
-        "link": "https://online.metro-cc.ru/products/osetr-1-5-3kg",
-        "old_price": "2399",
-        "actual_price": "1899",
+        "id": "119136",
+        "name": "Кофе в капсулах Jardin Vanillia Rich&Sweet для кофемашин Nespresso 10шт, 50г",
+        "link": "https://online.metro-cc.ru/products/10h5g-jardin-vanillia",
+        "common_price": "389",
+        "promo_price": "269",
         "brand": "Без бренда"
     },
     {
-        "id": "52291",
-        "name": "Форель мурманская филе на коже охлажденная",
-        "link": "https://online.metro-cc.ru/products/art-52291",
-        "old_price": "3299",
-        "actual_price": "3059",
+        "id": "226465",
+        "name": "Кофе Alta Roma Vero в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-alta-roma-vero-v-zernakh-1kg",
+        "common_price": "1539",
+        "promo_price": "1399",
         "brand": "Без бренда"
     },
     {
-        "id": "221825",
-        "name": "Форель горная стейки охлажденная, ~200г",
-        "link": "https://online.metro-cc.ru/products/200g-forel-gornaya-steyki-ohl",
-        "old_price": "2199",
-        "actual_price": "1799",
+        "id": "469367",
+        "name": "Кофе Jardin Kenya Kilimanjaro растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/jardin-kenya-kilimanjaro-95-g",
+        "common_price": "319",
+        "promo_price": "279",
         "brand": "Без бренда"
     },
     {
-        "id": "238352",
-        "name": "Форель карельская стейки охлажденная",
-        "link": "https://online.metro-cc.ru/products/forel-karelskaya-steyki-ohl",
-        "old_price": "отсутствует",
-        "actual_price": "1899",
+        "id": "624874",
+        "name": "Кофе Origo Grande Barista в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/art-624874",
+        "common_price": "3599",
+        "promo_price": "2099",
         "brand": "Без бренда"
     },
     {
-        "id": "557223",
-        "name": "Форель Карельская потрошеная с головой охлажденная, ~3-4кг",
-        "link": "https://online.metro-cc.ru/products/forel-kareliya-potroshenaya-3-kg",
-        "old_price": "1459",
-        "actual_price": "1379",
+        "id": "658721",
+        "name": "Кофе Kimbo Caffe crema classico light в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kimbo-dolche-krem-1kg",
+        "common_price": "2319",
+        "promo_price": "1799",
         "brand": "Без бренда"
     },
     {
-        "id": "659075",
-        "name": "Камбала без головы икряная",
-        "link": "https://online.metro-cc.ru/products/kambala-ikryanaya-bez-golovy",
-        "old_price": "789",
-        "actual_price": "749",
+        "id": "44332",
+        "name": "Кофе Egoiste Espresso в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/egoiste-espresso-1000g",
+        "common_price": "2519",
+        "promo_price": "1699",
         "brand": "Без бренда"
     },
     {
-        "id": "260170",
-        "name": "Форель стейки охлажденные, ~300-600г",
-        "link": "https://online.metro-cc.ru/products/forel-prihvostnaya-chast",
-        "old_price": "2699",
-        "actual_price": "2559",
+        "id": "8415",
+        "name": "Кофе Нескафе Голд растворимый, 190г",
+        "link": "https://online.metro-cc.ru/products/nescafe-sublimirovannyj-gold-190g",
+        "common_price": "619",
+        "promo_price": "549",
         "brand": "Без бренда"
     },
     {
-        "id": "256043",
-        "name": "Форель морская мурманская ORD, ~1-2кг",
-        "link": "https://online.metro-cc.ru/products/forel-morskaya-murmanskaya-2-3kg",
-        "old_price": "999",
-        "actual_price": "899",
+        "id": "230302",
+        "name": "Кофе Monarch Original растворимый, 210г",
+        "link": "https://online.metro-cc.ru/products/kofe-monarch-original-rastvorimyy-210g",
+        "common_price": "689",
+        "promo_price": "599",
         "brand": "Без бренда"
     },
     {
-        "id": "256585",
-        "name": "Сазан филе на коже, ~300г",
-        "link": "https://online.metro-cc.ru/products/300g-sazan-file-nk",
-        "old_price": "949",
-        "actual_price": "849",
+        "id": "229730",
+        "name": "Кофе Monarch Original растворимый, 130г",
+        "link": "https://online.metro-cc.ru/products/kofe-monarch-original-rastvorimyy-130g",
+        "common_price": "629",
+        "promo_price": "449",
         "brand": "Без бренда"
     },
     {
-        "id": "274361",
-        "name": "Форель Inarctica Мурманская охлажденная ORD, ~0.1-1кг",
-        "link": "https://online.metro-cc.ru/products/01-1kg-forel-murmanskaya-inarctica-ord-ohl",
-        "old_price": "599",
-        "actual_price": "499",
+        "id": "494570",
+        "name": "Кофе Jardin Colombia Supremo натуральный жареный в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/jardin-v-zernah-naturalnyj-zharenyj-colombia-supremo-1kg",
+        "common_price": "2589",
+        "promo_price": "1399",
         "brand": "Без бренда"
     },
     {
-        "id": "274361",
-        "name": "Форель Inarctica Мурманская охлажденная ORD, ~0.1-1кг",
-        "link": "https://online.metro-cc.ru/products/01-1kg-forel-murmanskaya-inarctica-ord-ohl",
-        "old_price": "599",
-        "actual_price": "499",
+        "id": "59004",
+        "name": "Кофе Bushido Red Katana молотый, 227г",
+        "link": "https://online.metro-cc.ru/products/art-59004",
+        "common_price": "739",
+        "promo_price": "469",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "530969",
+        "name": "RIOBA Кофе в капсулах Intenso для кофемашин Nespresso 11шт, 55г",
+        "link": "https://online.metro-cc.ru/products/rioba-dlya-kofemashin-intenso-11x5g",
+        "common_price": "275",
+        "promo_price": "229",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "133724",
+        "name": "Напиток кофейный Нескафе Классик 3в1 20 пакетиков, 290г",
+        "link": "https://online.metro-cc.ru/products/20x145g-kofejnyj-napitok-nescafe-3v1-klassik",
+        "common_price": "319",
+        "promo_price": "269",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "257964",
+        "name": "Кофе Poetti Soul of Havana натуральный жареный в зернах, 800г",
+        "link": "https://online.metro-cc.ru/products/kofe-poetti-soul-of-havana-naturalnyy-zharenyy-v-zernah-800g",
+        "common_price": "1749",
+        "promo_price": "1399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "407889",
+        "name": "Кофе Bushido Original растворимый, 100г",
+        "link": "https://online.metro-cc.ru/products/bushido-sublimirovannyj-original-100g",
+        "common_price": "939",
+        "promo_price": "749",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228292",
+        "name": "Кофе Egoiste Truffle молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/250g-kofe-egoiste-truffle-molotyy",
+        "common_price": "699",
+        "promo_price": "469",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "220012",
+        "name": "Кофе Julius Meinl Espresso Deluxe в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-julius-meinl-espresso-deluxe-zerno",
+        "common_price": "3399",
+        "promo_price": "2299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249899",
+        "name": "Кофе Fresco Arabica Espresso в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-fresco-arabica-espresso-v-zernah-1kg",
+        "common_price": "2099",
+        "promo_price": "1299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "221908",
+        "name": "Кофе в капсулах Lebo Espresso Collection для кофемашин Nespresso 40шт, 220г",
+        "link": "https://online.metro-cc.ru/products/40shth55g-kofe-lebo-espresso-collection-banka",
+        "common_price": "1659",
+        "promo_price": "1299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "238553",
+        "name": "Кофе Monarch Original растворимый (1.8г x 30шт), 54г",
+        "link": "https://online.metro-cc.ru/products/kofe-monarch-original-rastvorimyy-18g-x-30sht-54g",
+        "common_price": "329",
+        "promo_price": "299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246516",
+        "name": "Кофе Egoiste Voyage молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-egoiste-voyage-molotyy-250g",
+        "common_price": "1019",
+        "promo_price": "499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "508640",
+        "name": "Кофе Egoiste Noir молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/egoiste-naturalnyj-zharenyj-250g",
+        "common_price": "519",
+        "promo_price": "499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "70176",
+        "name": "Кофе Нескафе Классик растворимый, 500г",
+        "link": "https://online.metro-cc.ru/products/nescafe-classic-paket-500g",
+        "common_price": "1139",
+        "promo_price": "969",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "112992",
+        "name": "Кофе Egoiste гранд крю в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-v-zernah-egoiste-grand-kryu-1kg",
+        "common_price": "3339",
+        "promo_price": "1999",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "59575",
+        "name": "Кофе Illy Etiopia arabica selection в зернах, 250г",
+        "link": "https://online.metro-cc.ru/products/illy-arabika-selekshen-efiopiya-250-g",
+        "common_price": "1649",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "59002",
+        "name": "Кофе Bushido Sensei молотый, 227г",
+        "link": "https://online.metro-cc.ru/products/art-59002",
+        "common_price": "779",
+        "promo_price": "489",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249897",
+        "name": "Кофе Fresco Uganda в зернах, 900г",
+        "link": "https://online.metro-cc.ru/products/kofe-fresco-uganda-v-zernah-900g",
+        "common_price": "1649",
+        "promo_price": "1399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228236",
+        "name": "Кофе Jardin Gold растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/95g-kofe-jardin-gold-rastvorimyy-stb",
+        "common_price": "296",
+        "promo_price": "269",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "59006",
+        "name": "Кофе Egoiste Noir растворимый, 70г",
+        "link": "https://online.metro-cc.ru/products/egoiste-noir-70g",
+        "common_price": "469",
+        "promo_price": "309",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "259874",
+        "name": "Кофе Alta Roma Classico зерновой, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-alta-roma-arabica-classico-zerno",
+        "common_price": "2299",
+        "promo_price": "1499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246068",
+        "name": "Кофе Alta Roma Blend №5, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-alta-roma-blend-5-1kg",
+        "common_price": "1499",
+        "promo_price": "1399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "407891",
+        "name": "Кофе Egoiste Special растворимый сублимированный с молотым, 100г",
+        "link": "https://online.metro-cc.ru/products/egoiste-sublimirovannnyj-s-molotym-special-100g",
+        "common_price": "999",
+        "promo_price": "749",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "632120",
+        "name": "aro Кофе растворимый сублимированный, 900г",
+        "link": "https://online.metro-cc.ru/products/aro-sublimirovannyj-900g",
+        "common_price": "отсутствует",
+        "promo_price": "1759",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "230305",
+        "name": "Кофе Monarch Original растворимый, 270г",
+        "link": "https://online.metro-cc.ru/products/kofe-monarch-original-rastvorimyy-270g",
+        "common_price": "1069",
+        "promo_price": "849",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "270139",
+        "name": "Кофе Poetti Neuro Special Edition зерновой, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-poetti-neuro-special-edition-zerno",
+        "common_price": "3199",
+        "promo_price": "1599",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246513",
+        "name": "Кофе Egoiste Captain молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-egoiste-captain-molotyy-250g",
+        "common_price": "1049",
+        "promo_price": "499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "8486",
+        "name": "RIOBA Кофе в капсулах Dolce Gusto Espresso 16шт, 112г",
+        "link": "https://online.metro-cc.ru/products/rioba-dolce-gusto-espresso-16sht",
+        "common_price": "509",
+        "promo_price": "429",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "642122",
+        "name": "Кофе Нескафе Голд растворимый сублимированный с добавлением натурального жареного молотого кофе, 750г",
+        "link": "https://online.metro-cc.ru/products/nescafe-s-dobavleniem-naturalnogo-zharenogo-molotogo-gold-750g",
+        "common_price": "2599",
+        "promo_price": "1799",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "633254",
+        "name": "Кофе Jardin Эспрессо ди Милано в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/jardin-v-zernah-naturalnyj-zharenyj-espresso-di-milano-1kg",
+        "common_price": "1879",
+        "promo_price": "1149",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "220015",
+        "name": "Кофе Julius Meinl Espresso Gran Aroma в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-julius-meinl-espresso-gran-aroma-zerno",
+        "common_price": "2899",
+        "promo_price": "1799",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "270140",
+        "name": "Кофе Poetti Arabica Dark Sensation зерновой, 750г",
+        "link": "https://online.metro-cc.ru/products/750g-kofe-poetti-arabica-dark-sensation-zerno",
+        "common_price": "1999",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "238564",
+        "name": "Напиток кофейный Monarch Classic 3в1 растворимый (13.5г x 50шт), 675г",
+        "link": "https://online.metro-cc.ru/products/napitok-kofeynyy-monarch-classic-3v1-rastvorimyy-135g-x-50sht-675g",
+        "common_price": "919",
+        "promo_price": "599",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "59570",
+        "name": "Кофе Illy Guatemala arabica selection в зернах, 250г",
+        "link": "https://online.metro-cc.ru/products/v-zernah-illy-guatemala-zh-b-250-g",
+        "common_price": "1649",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "526503",
+        "name": "Кофе Fresco Arabica Doppio молотый в растворимом, 100г",
+        "link": "https://online.metro-cc.ru/products/fresco-naturalnyj-s-dobavleniem-naturalnogo-zharenogo-molotogo-arabica-doppio-100g",
+        "common_price": "529",
+        "promo_price": "299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "31887",
+        "name": "Кофе Bushido Kodo растворимый, 95г x 9 шт",
+        "link": "https://online.metro-cc.ru/products/bushido-kodo-rastvorimyj-95g",
+        "common_price": "9801",
+        "promo_price": "5661",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "125676",
+        "name": "Кофе Lebo Classic молотый для турки, 200г",
+        "link": "https://online.metro-cc.ru/products/200g-lebo-classic-dlya-turki",
+        "common_price": "419",
+        "promo_price": "289",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "395462",
+        "name": "Кофе Julius Meinl Президент в зернах, 500г",
+        "link": "https://online.metro-cc.ru/products/julius-meinl-v-zernah-naturalnyj-zharenyj-president-500g",
+        "common_price": "отсутствует",
+        "promo_price": "849",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246067",
+        "name": "Кофе Alta Roma Blend №3, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-alta-roma-blend-3-zernovoy",
+        "common_price": "1689",
+        "promo_price": "1499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "635596",
+        "name": "Кофе Jardin Bravo Бразилия в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/jardin-bravo-braziliya-1kg",
+        "common_price": "2749",
+        "promo_price": "1399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "376494",
+        "name": "Кофе Kimbo Extra Cream в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kimbo-extra-cream-v-zernah-1-kg",
+        "common_price": "2519",
+        "promo_price": "1899",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "120485",
+        "name": "RIOBA Кофе в капсулах Delicato для кофемашин Nespresso 11шт, 55г x 10 шт",
+        "link": "https://online.metro-cc.ru/products/rioba-dlya-kofemashin-delicato-10x5g-120485",
+        "common_price": "отсутствует",
+        "promo_price": "2750",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "59003",
+        "name": "Кофе Bushido Sensei в зернах, 227г",
+        "link": "https://online.metro-cc.ru/products/bushido-sensei-227g",
+        "common_price": "769",
+        "promo_price": "489",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "508637",
+        "name": "Кофе Bushido Red Katana растворимый сублимированный, 100г",
+        "link": "https://online.metro-cc.ru/products/art-508637",
+        "common_price": "1049",
+        "promo_price": "849",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "59569",
+        "name": "Кофе Illy Brazil arabica selection в зернах, 250г",
+        "link": "https://online.metro-cc.ru/products/illy-arabika-250-g",
+        "common_price": "1649",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "220013",
+        "name": "Кофе Julius Meinl Cafe Crema Gourmet в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-julius-meinl-cafe-crema-gourmet-zerno",
+        "common_price": "2899",
+        "promo_price": "1799",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228238",
+        "name": "Кофе Jardin Гватемала Атитлан растворимый, 75г",
+        "link": "https://online.metro-cc.ru/products/75g-kofe-jardin-gvatemala-atitlan-rastvorimyy",
+        "common_price": "329",
+        "promo_price": "209",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "209740",
+        "name": "Кофе Bushido Light Katana растворимый, 100г",
+        "link": "https://online.metro-cc.ru/products/100g-kofe-bushido-light-katana-rastvorimyy",
+        "common_price": "1049",
+        "promo_price": "849",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246512",
+        "name": "Кофе Egoiste Captain зерновой, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-egoiste-captain-zernovoy-250g",
+        "common_price": "1049",
+        "promo_price": "499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "245947",
+        "name": "Кофе Vergnano Granaroma зерновой, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-vergnano-granaroma-zernovoy-1kg",
+        "common_price": "4699",
+        "promo_price": "2599",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249902",
+        "name": "Кофе Kaffa Fresco Bogota растворимый сублимированный, 100г",
+        "link": "https://online.metro-cc.ru/products/kofe-kaffa-fresco-bogota-rastvorimyy-sublimirovannyy-100g",
+        "common_price": "1529",
+        "promo_price": "999",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "224709",
+        "name": "Кофе Monarch Original растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/95g-kofe-monarch-original-rastvorimyy-st",
+        "common_price": "389",
+        "promo_price": "329",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "654489",
+        "name": "Кофе Origo Kaffee Klassik Barista Espresso в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/v-zernah-origo-klassik-kaffee-barista-espresso-1-kg",
+        "common_price": "3149",
+        "promo_price": "2499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "553579",
+        "name": "Кофе Egoiste Espresso натуральный молотый жареный, 250г",
+        "link": "https://online.metro-cc.ru/products/art-553579",
+        "common_price": "549",
+        "promo_price": "469",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "133726",
+        "name": "Напиток кофейный Нескафе Мягкий 3в1 20 пакетиков, 290г",
+        "link": "https://online.metro-cc.ru/products/20x145g-kofejnyj-napitok-nescafe-3v1-myagkij",
+        "common_price": "319",
+        "promo_price": "269",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226342",
+        "name": "Кофе Lebo Gold в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-lebo-gold-v-zernah",
+        "common_price": "2699",
+        "promo_price": "1599",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "254244",
+        "name": "Кофе Poetti Leggenda Original молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/250g-kofe-poetti-leggenda-original-molotyy",
+        "common_price": "469",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "133441",
+        "name": "RIOBA Кофе в капсулах Dolce Gusto Latte Macciato 8 порций 16 капсул, 192г",
+        "link": "https://online.metro-cc.ru/products/192g-kofe-v-kaps-rioba-dolce-gusto-latte-macc",
+        "common_price": "509",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "528358",
+        "name": "Кофе Bushido Black Katana растворимый, 100г",
+        "link": "https://online.metro-cc.ru/products/bushido-sublimirovannyj-black-katana-100g",
+        "common_price": "1129",
+        "promo_price": "899",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "100815",
+        "name": "Кофе в капсулах Julius Meinl Espresso Crema Bio для кофемашин Nespresso 10шт, 56г",
+        "link": "https://online.metro-cc.ru/products/julius-meinl-espresso-krema-10sht",
+        "common_price": "719",
+        "promo_price": "469",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "376496",
+        "name": "Кофе Kimbo Superior Blend натуральный жареный в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kimbo-v-zernah-naturalnyj-zharenyj-superior-blend-1kg",
+        "common_price": "2349",
+        "promo_price": "2199",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "218714",
+        "name": "Кофе Poetti Leggenda Ruby в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-poetti-leggenda-ruby-v-zernah",
+        "common_price": "2589",
+        "promo_price": "1499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249896",
+        "name": "Кофе Coffesso Mokka в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-coffesso-mokka-molotyy-250kg",
+        "common_price": "1999",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "611605",
+        "name": "Кофе Illy средней обжарки молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/illy-srednej-obzharki-250g",
+        "common_price": "1599",
+        "promo_price": "999",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "230024",
+        "name": "Кофе Illy без кофеина в зернах, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-illy-bez-kofeina-zernovoy-250g",
+        "common_price": "1669",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "119138",
+        "name": "Кофе в капсулах Jardin Andante Strong&Velvet для кофемашин Nespresso 10шт, 50г",
+        "link": "https://online.metro-cc.ru/products/10h5g-jardin-andante",
+        "common_price": "389",
+        "promo_price": "269",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "147698",
+        "name": "aro Кофе растворимый сублимированный, 80г",
+        "link": "https://online.metro-cc.ru/products/sublimirovannyj-aro-80g",
+        "common_price": "отсутствует",
+        "promo_price": "212",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "629006",
+        "name": "Кофе Kimbo Espresso в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kimbo-espresso-v-zernah-1-kg",
+        "common_price": "отсутствует",
+        "promo_price": "2099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "531031",
+        "name": "Кофе Alta Roma Intenso в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-alta-roma-intenso-v-zernakh-1kg",
+        "common_price": "1859",
+        "promo_price": "1399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "598959",
+        "name": "Кофе Egoiste Noir растворимый сублимированный, 100г",
+        "link": "https://online.metro-cc.ru/products/egoiste-sublimirovannyj-noir-100g",
+        "common_price": "729",
+        "promo_price": "499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "508641",
+        "name": "Кофе Egoiste Noir в зернах, 250г",
+        "link": "https://online.metro-cc.ru/products/egoiste-naturalnyj-zharenyj-v-zernah-noir-250g",
+        "common_price": "529",
+        "promo_price": "499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "632162",
+        "name": "aro Кофе 3в1 классик (100 пакетиков x 16г), 1.6кг",
+        "link": "https://online.metro-cc.ru/products/aro-3v1-klassik-100h16g",
+        "common_price": "отсутствует",
+        "promo_price": "849",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "119137",
+        "name": "Кофе в капсулах Jardin Vivo Mild&Fruity для кофемашин Nespresso 10шт, 50г",
+        "link": "https://online.metro-cc.ru/products/10h5g-jardin-vivo",
+        "common_price": "389",
+        "promo_price": "269",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "255724",
+        "name": "Кофе Monarch Lungo 6 Classico молотый в капсулах (5.2г x 10шт), 52г",
+        "link": "https://online.metro-cc.ru/products/kofe-monarch-lungo-6-classico-molotyy-v-kapsulah-52g-x-10sht-52g",
+        "common_price": "отсутствует",
+        "promo_price": "389",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228811",
+        "name": "Кофе Fort в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-fort-zerno",
+        "common_price": "1139",
+        "promo_price": "989",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246069",
+        "name": "Кофе Alta Roma Rwanda зерновой, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-alta-roma-rwanda-zernovoy",
+        "common_price": "2949",
+        "promo_price": "1999",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246518",
+        "name": "Кофе Egoiste Truffle зерновой, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-egoiste-truffle-zernovoy-250g",
+        "common_price": "699",
+        "promo_price": "469",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228420",
+        "name": "Кофе Verle Africa 6 дрип-пакетов с молотым кофе, 66г",
+        "link": "https://online.metro-cc.ru/products/6shth11g-kofe-verle-africa-v-drip-paketah",
+        "common_price": "отсутствует",
+        "promo_price": "499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "238552",
+        "name": "Кофе Monarch Original растворимый, 75г",
+        "link": "https://online.metro-cc.ru/products/kofe-monarch-original-rastvorimyy-75g",
+        "common_price": "отсутствует",
+        "promo_price": "289",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "551849",
+        "name": "Кофе Нескафе Крема растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/nescafe-classic-crema-95-g",
+        "common_price": "329",
+        "promo_price": "229",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "218639",
+        "name": "Кофе Нескафе Крема растворимый, 190г",
+        "link": "https://online.metro-cc.ru/products/190g-kofe-nescafe-classic-crema-rastvorimyy-st-banka",
+        "common_price": "519",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "218710",
+        "name": "Кофе Poetti Daily Mokka молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/250g-kofe-poetti-daily-mokka-molotyy",
+        "common_price": "359",
+        "promo_price": "299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "75962",
+        "name": "Кофе Bushido Specialty в зернах, 227г",
+        "link": "https://online.metro-cc.ru/products/bushido-specialty-227g-75962",
+        "common_price": "829",
+        "promo_price": "569",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "119139",
+        "name": "Кофе в капсулах Jardin Ristretto Intense&Full Bodied для кофемашин Nespresso 10шт, 50г",
+        "link": "https://online.metro-cc.ru/products/10h5g-jardin-ristretto",
+        "common_price": "389",
+        "promo_price": "269",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "241844",
+        "name": "Кофе в капсулах Coffesso Capuccino Crema для кофемашин Dolce Gusto 16шт, 192г",
+        "link": "https://online.metro-cc.ru/products/8shth8g8shth16g-kofe-coffesso-sappuccino-crema-kapsuly",
+        "common_price": "729",
+        "promo_price": "449",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "599071",
+        "name": "Кофе Jardin Kenya Kilimanjaro растворимый сублимированный, 150г",
+        "link": "https://online.metro-cc.ru/products/jardin-kenya-kilimanjaro-sublimirovannyj-150g",
+        "common_price": "729",
+        "promo_price": "379",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "530964",
+        "name": "RIOBA Кофе в капсулах Decaffeinato без кофеина для кофемашин Nespresso 11шт, 55г",
+        "link": "https://online.metro-cc.ru/products/rioba-dlya-kofemashin-decaffein-11x5g",
+        "common_price": "275",
+        "promo_price": "229",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "231688",
+        "name": "Кофе Torabika Cappucсino растворимый (25.5г x 20шт), 510г",
+        "link": "https://online.metro-cc.ru/products/20shtx255g-kofe-torabica-kapuchino-rastvorimyy",
+        "common_price": "369",
+        "promo_price": "339",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "654817",
+        "name": "Кофе Julius Meinl Trend Collection Espresso Classico в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/julius-meinl-espresso-trend-1kg",
+        "common_price": "2379",
+        "promo_price": "1699",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "469362",
+        "name": "Кофе Jardin Colombia Medellin натуральный растворимый сублимированный, 95г",
+        "link": "https://online.metro-cc.ru/products/jardin-naturalnyj-sublimirovannyj-colombia-medellin-95g",
+        "common_price": "319",
+        "promo_price": "279",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "230025",
+        "name": "Кофе Illy без кофеина молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-illy-bez-kofeina-molotyy-250g",
+        "common_price": "1669",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "224739",
+        "name": "Кофе Monarch Milligrano растворимый с добавлением молотого, 120г",
+        "link": "https://online.metro-cc.ru/products/120g-kofe-monarch-miligrano-rastv-c-dob-molotogo",
+        "common_price": "719",
+        "promo_price": "369",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226333",
+        "name": "Кофе в капсулах Carte Noire Colombia Origin для кофемашин Nespresso 10шт, 52г",
+        "link": "https://online.metro-cc.ru/products/10shth52g-kofe-carte-noire-colombia-origin-v-kapsulah",
+        "common_price": "499",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "234805",
+        "name": "Кофе Жокей классический 3в1 растворимый (12г x 50шт), 600г",
+        "link": "https://online.metro-cc.ru/products/kofe-zhokey-klassicheskiy-3v1-rastvorimyy-12g-x-50sht-600g",
+        "common_price": "719",
+        "promo_price": "449",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "272109",
+        "name": "Кофе Нескафе Crema растворимый, 450г",
+        "link": "https://online.metro-cc.ru/products/450g-kofe-neskafe-krema-rastvorimyy-paket",
+        "common_price": "2049",
+        "promo_price": "999",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "530968",
+        "name": "RIOBA Кофе в капсулах Delicato для кофемашин Nespresso 11шт, 55г",
+        "link": "https://online.metro-cc.ru/products/rioba-dlya-kofemashin-delicato-10x5g",
+        "common_price": "275",
+        "promo_price": "229",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "119135",
+        "name": "Кофе в капсулах Jardin Allonge Smooth&Silky для кофемашин Nespresso 10шт, 50г",
+        "link": "https://online.metro-cc.ru/products/10h5g-jardin-allonge",
+        "common_price": "389",
+        "promo_price": "269",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "112990",
+        "name": "Кофе Carraro Arabica 100% в зернах, 500г",
+        "link": "https://online.metro-cc.ru/products/v-zernah-carraro-arabica-100-500-g",
+        "common_price": "1779",
+        "promo_price": "1499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249931",
+        "name": "Кофе в капсулах Coffesso Espresso Superiore для кофемашин Nespresso 10шт, 50г",
+        "link": "https://online.metro-cc.ru/products/kofe-v-kapsulah-coffesso-espresso-superiore-dlya-kofemashin-nespresso-10sht-50g",
+        "common_price": "529",
+        "promo_price": "249",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249929",
+        "name": "Кофе в капсулах Coffesso Classico Italiano для кофемашин Nespresso 10шт, 50г",
+        "link": "https://online.metro-cc.ru/products/kofe-v-kapsulah-coffesso-classico-italiano-dlya-kofemashin-nespresso-10sht-50g",
+        "common_price": "529",
+        "promo_price": "249",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249898",
+        "name": "Кофе Fresco Guatemala в зернах, 900г",
+        "link": "https://online.metro-cc.ru/products/kofe-fresco-guatemala-v-zernah-900g",
+        "common_price": "1649",
+        "promo_price": "1399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "232413",
+        "name": "Кофе Жокей триумф растворимый (2г x 100шт), 200г",
+        "link": "https://online.metro-cc.ru/products/100shth2g-kofe-zhokey-triumf-rastvorimyy",
+        "common_price": "отсутствует",
+        "promo_price": "869",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "599512",
+        "name": "Кофе Ambassador Platinum в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/ambassador-naturalnyj-zharenyj-platinum-1kg",
+        "common_price": "1899",
+        "promo_price": "1089",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "221911",
+        "name": "Кофе в капсулах Lebo Espresso Milky для кофемашин Nespresso 40шт, 220г",
+        "link": "https://online.metro-cc.ru/products/40shth55g-kofe-lebo-espresso-milky-banka",
+        "common_price": "1729",
+        "promo_price": "1299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "112991",
+        "name": "Кофе Carraro Qualita Oro в зернах, 500г",
+        "link": "https://online.metro-cc.ru/products/v-zernah-carraro-qualita-oro-500-g",
+        "common_price": "1359",
+        "promo_price": "1299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "120484",
+        "name": "RIOBA Кофе в капсулах Intenso для кофемашин Nespresso 11шт, 55г x 10 шт",
+        "link": "https://online.metro-cc.ru/products/rioba-dlya-kofemashin-intenso-11x5g-120484",
+        "common_price": "отсутствует",
+        "promo_price": "2750",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "120486",
+        "name": "RIOBA Кофе в капсулах Forte для кофемашин Nespresso 11шт, 55г x 10 шт",
+        "link": "https://online.metro-cc.ru/products/rioba-dlya-kofemashin-forte-10x5g-120486",
+        "common_price": "отсутствует",
+        "promo_price": "2750",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "373046",
+        "name": "Кофе Жокей По-восточному молотый натуральный жареный, 250г",
+        "link": "https://online.metro-cc.ru/products/art-373046",
+        "common_price": "339",
+        "promo_price": "289",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "257965",
+        "name": "Кофе Poetti Soul of Rome натуральный жареный в зернах, 800г",
+        "link": "https://online.metro-cc.ru/products/kofe-poetti-soul-of-rome-naturalnyy-zharenyy-v-zernah-800g",
+        "common_price": "2099",
+        "promo_price": "1399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "241739",
+        "name": "Кофе Coffesso Brazil Alto 5 дрип-пакетов с молотым кофе, 50г",
+        "link": "https://online.metro-cc.ru/products/5shth10g-kofe-coffesso-brazil-alto-molotyy-drip-paket",
+        "common_price": "239",
+        "promo_price": "199",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "241741",
+        "name": "Кофе Coffesso Colombia Tinto 5 дрип-пакетов с молотым кофе, 50г",
+        "link": "https://online.metro-cc.ru/products/5shth10g-kofe-coffesso-colombia-tinto-molotyy-drip-paket",
+        "common_price": "239",
+        "promo_price": "199",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "243162",
+        "name": "Кофе Живой кофе Mokka Африка зерновой, 800г",
+        "link": "https://online.metro-cc.ru/products/800g-zhivoy-kofe-mokka-afrika-zerno",
+        "common_price": "2399",
+        "promo_price": "1299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "272111",
+        "name": "Напиток кофейный Нескафе Латте растворимый 3в1 (18г x 20шт), 360г",
+        "link": "https://online.metro-cc.ru/products/20shth18g-napitok-kofeynyy-neskafe-latte-3v1-rastvorimyy",
+        "common_price": "799",
+        "promo_price": "499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228235",
+        "name": "Кофе Jardin Gold растворимый, 190г",
+        "link": "https://online.metro-cc.ru/products/190g-kofe-jardin-gold-rastvorimyy-stb",
+        "common_price": "809",
+        "promo_price": "499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "235414",
+        "name": "Кофе Miscela D'Oro Espresso Gran Crema в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-miscela-doro-espresso-gran-crema-v-zernah-1kg",
+        "common_price": "2749",
+        "promo_price": "2499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "590985",
+        "name": "Кофе Egoiste Very Special растворимый сублимированный, 100г",
+        "link": "https://online.metro-cc.ru/products/egoiste-sublimirovannyj-very-special-100g",
+        "common_price": "1269",
+        "promo_price": "799",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "257437",
+        "name": "Кофе Italco Espresso Alpino Crema Oro зерновой, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-italco-espresso-alpino-crema-oro-zerno",
+        "common_price": "2949",
+        "promo_price": "2299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "426443",
+        "name": "Кофе Carte Noire Original растворимый сублимированный, 75г",
+        "link": "https://online.metro-cc.ru/products/art-426443",
+        "common_price": "619",
+        "promo_price": "499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "241737",
+        "name": "Кофе Coffesso Classico молотый 5 дрип-пакетов с молотым кофе, 45г",
+        "link": "https://online.metro-cc.ru/products/5shth9g-kofe-coffesso-classico-molotyy-drip-paket",
+        "common_price": "202",
+        "promo_price": "149",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "232417",
+        "name": "Кофе Jardin Colombia Medellin растворимый, 240г",
+        "link": "https://online.metro-cc.ru/products/240g-kofe-jardin-colombia-medellin-rastvorimyy",
+        "common_price": "1019",
+        "promo_price": "599",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "423210",
+        "name": "Кофе Fresco Arabica Blend натуральный растворимый, 100г",
+        "link": "https://online.metro-cc.ru/products/fresco-naturalnyj-arabica-blend-100g",
+        "common_price": "539",
+        "promo_price": "299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "133725",
+        "name": "Напиток кофейный Нескафе Крепкий 3в1 20 пакетиков, 290г",
+        "link": "https://online.metro-cc.ru/products/20x145g-kofejnyj-napitok-nescafe-3v1-krepkij",
+        "common_price": "319",
+        "promo_price": "269",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "241738",
+        "name": "Кофе Coffesso Ethiopia Origin 5 дрип-пакетов с молотым кофе, 50г",
+        "link": "https://online.metro-cc.ru/products/5shth10g-kofe-coffesso-ethiopia-origin-molotyy-drip-paket",
+        "common_price": "237",
+        "promo_price": "199",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "230304",
+        "name": "Кофе Monarch Milligrano растворимый с молотым, 90г",
+        "link": "https://online.metro-cc.ru/products/kofe-monarch-milligrano-rastvorimyy-s-molotym-90g",
+        "common_price": "389",
+        "promo_price": "329",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "254243",
+        "name": "Кофе Poetti Leggenda Ruby молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/250g-kofe-poetti-leggenda-ruby-molotyy",
+        "common_price": "459",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "107074",
+        "name": "Кофе Carraro Primo Mattino в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/v-zernah-carraro-primo-mattino-1-kg",
+        "common_price": "2239",
+        "promo_price": "2099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "459854",
+        "name": "Кофе Jardin Guatemala Atitlan растворимый, 150г",
+        "link": "https://online.metro-cc.ru/products/jardin-guatemala-atitlan-150g",
+        "common_price": "729",
+        "promo_price": "379",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "232416",
+        "name": "Кофе Жокей крепкий растворимый 3в1 (12г x 50шт), 600г",
+        "link": "https://online.metro-cc.ru/products/50shth12g-kofe-zhokey-krepkiy-3v1-rastvorimyy",
+        "common_price": "629",
+        "promo_price": "449",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249903",
+        "name": "Кофе Kaffa Fresco Quindio растворимый с добавлением молотого, 100г",
+        "link": "https://online.metro-cc.ru/products/kofe-kaffa-fresco-quindio-rastvorimyy-sublimirovannyy-100g",
+        "common_price": "1529",
+        "promo_price": "999",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "245945",
+        "name": "Кофе Vergnano Эспрессо арабика молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-vergnano-espresso-arabika-molotyy-250g",
+        "common_price": "1569",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226933",
+        "name": "Кофе Carraro Cafe crema в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-carraro-caffe-crema-v-zernah",
+        "common_price": "2229",
+        "promo_price": "2099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228239",
+        "name": "Кофе Jardin Колумбия Меделлин растворимый, 75г",
+        "link": "https://online.metro-cc.ru/products/75g-kofe-jardin-kolumbiya-medellin-rastvorimyy",
+        "common_price": "329",
+        "promo_price": "209",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "119131",
+        "name": "Кофе Жокей По-восточному молотый, 450г",
+        "link": "https://online.metro-cc.ru/products/450g-zhokej-po-vostochnomu-mol",
+        "common_price": "629",
+        "promo_price": "519",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "231689",
+        "name": "Кофе Torabika Creamy Latte растворимый (30г x 20шт), 600г",
+        "link": "https://online.metro-cc.ru/products/20shtx30g-kofe-torabica-creamy-latte-rastvorimyy",
+        "common_price": "359",
+        "promo_price": "339",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "373043",
+        "name": "Кофе Jardin Dessert Сup молотый натуральный жареный, 250г",
+        "link": "https://online.metro-cc.ru/products/jardin-naturalnyj-zharenyj-dessert-sup-250g",
+        "common_price": "479",
+        "promo_price": "339",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "373045",
+        "name": "Кофе Жокей классический молотый натуральный жареный, 250г",
+        "link": "https://online.metro-cc.ru/products/zhokej-naturalnyj-zharenyj-klassicheskij-250g",
+        "common_price": "309",
+        "promo_price": "289",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "221905",
+        "name": "Кофе в капсулах Carraro Decerato для кофемашин Nespresso 10шт, 55г",
+        "link": "https://online.metro-cc.ru/products/10shtx55g-kofe-carraro-v-alyum-kapsulah-decerato",
+        "common_price": "729",
+        "promo_price": "419",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "221904",
+        "name": "Кофе в капсулах Carraro Ristretto для кофемашин Nespresso 10шт, 55г",
+        "link": "https://online.metro-cc.ru/products/10shtx55g-kofe-carraro-v-alyum-kapsulah-ristretto",
+        "common_price": "729",
+        "promo_price": "419",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "232899",
+        "name": "Кофе D'Arte Light растворимый, 100г",
+        "link": "https://online.metro-cc.ru/products/100g-kofe-darte-light-rastvorimyy",
+        "common_price": "479",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "218711",
+        "name": "Кофе Poetti Leggenda Original в зернах, 250г",
+        "link": "https://online.metro-cc.ru/products/250g-kofe-poetti-leggenda-original-v-zernah",
+        "common_price": "469",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "243174",
+        "name": "RIOBA Кофе в капсулах Dolce Gusto Capuccino 8 порций 16 капсул, 192г х 3 шт",
+        "link": "https://online.metro-cc.ru/products/rioba-kofe-v-kapsulah-dolce-gusto-capuccino-8-portsiy-16-kapsul-192g-h-3-sht",
+        "common_price": "отсутствует",
+        "promo_price": "1527",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249893",
+        "name": "Кофе Coffesso Crema молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-coffesso-crema-molotyy-250g",
+        "common_price": "479",
+        "promo_price": "319",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "70170",
+        "name": "Кофе Нескафе Классик растворимый, 190г",
+        "link": "https://online.metro-cc.ru/products/nescafe-classic-paket-190g",
+        "common_price": "479",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "243172",
+        "name": "RIOBA Кофе в капсулах Dolce Gusto Espresso 16шт, 112г х 3 шт",
+        "link": "https://online.metro-cc.ru/products/rioba-kofe-v-kapsulah-dolce-gusto-espresso-16sht-112g-h-3-sht",
+        "common_price": "отсутствует",
+        "promo_price": "1527",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226934",
+        "name": "Кофе Italco Espresso Italiano в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-italco-espresso-italiano-v-zernah",
+        "common_price": "1969",
+        "promo_price": "1799",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "439335",
+        "name": "Кофе Fresco Arabica Solo растворимый, 100г",
+        "link": "https://online.metro-cc.ru/products/fresco-arabika-100g",
+        "common_price": "539",
+        "promo_price": "299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249895",
+        "name": "Кофе Coffesso Mokka молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-coffesso-mokka-molotyy-250g",
+        "common_price": "499",
+        "promo_price": "299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "629008",
+        "name": "Кофе Kimbo Intenso в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kimbo-intenso-1kg",
+        "common_price": "2159",
+        "promo_price": "1799",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "259876",
+        "name": "Кофе Alta Roma Papua New Guinea зерновой, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-alta-roma-papua-new-guinea-zerno",
+        "common_price": "2649",
+        "promo_price": "1799",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "119132",
+        "name": "Кофе Жокей Ирландские сливки молотый, 150г",
+        "link": "https://online.metro-cc.ru/products/150g-zhokej-irlandskie-slivki-mol",
+        "common_price": "339",
+        "promo_price": "229",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "259875",
+        "name": "Кофе Alta Roma Supremo зерновой, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-alta-roma-supremo-zerno",
+        "common_price": "2379",
+        "promo_price": "1599",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "223118",
+        "name": "Кофе в капсулах Absolut Drive Latte Macchiato with caramel для кофемашин Dolce Gusto 16шт, 168г",
+        "link": "https://online.metro-cc.ru/products/8shth6g8shth15g-kofe-absolut-latte-karamel-kapsuly-dg",
+        "common_price": "отсутствует",
+        "promo_price": "549",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "463833",
+        "name": "Кофе Ambassador Platinum растворимый, 190г",
+        "link": "https://online.metro-cc.ru/products/ambassador-platinum-190g",
+        "common_price": "829",
+        "promo_price": "569",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226339",
+        "name": "Кофе Lebo Принц Лебо молотый для турки, 100г",
+        "link": "https://online.metro-cc.ru/products/100g-kofe-lebo-prints-lebo-molotyy-dturki",
+        "common_price": "209",
+        "promo_price": "169",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "235419",
+        "name": "Кофе Miscela D'Oro Espresso Intenso в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-miscela-doro-espresso-intenso-v-zernah-1kg",
+        "common_price": "1529",
+        "promo_price": "1299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "615407",
+        "name": "Кофе Jardin Americano Crema натуральный жареный молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/jardin-almericano-crema-naturalnyj-zharenyj-250g",
+        "common_price": "409",
+        "promo_price": "339",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226399",
+        "name": "Кофе Московская кофейня на паяхъ Арабика растворимый сублимированный, 95г",
+        "link": "https://online.metro-cc.ru/products/moskovskaya-kofejnya-na-payah-sublimirovannyj-arabika-95g",
+        "common_price": "отсутствует",
+        "promo_price": "619",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "224712",
+        "name": "Кофе Monarch Intense растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/95g-kofe-monarch-intense-rastvorimyy-st",
+        "common_price": "389",
+        "promo_price": "329",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "227972",
+        "name": "Кофе Fresco Arabica Solo растворимый, 190г",
+        "link": "https://online.metro-cc.ru/products/kofe-fresco-arabica-solo-rastvorimyy-190g",
+        "common_price": "649",
+        "promo_price": "549",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "227971",
+        "name": "Кофе Fresco Arabica blend растворимый, 190г",
+        "link": "https://online.metro-cc.ru/products/kofe-fresco-arabica-blend-rastvorimyy-190g",
+        "common_price": "669",
+        "promo_price": "549",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "256639",
+        "name": "Кофе Черная Карта растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/95g-kofe-chernaya-karta-gold-rastvorimyy-stb",
+        "common_price": "449",
+        "promo_price": "269",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "33501",
+        "name": "Кофе Нескафе Голд растворимый, 130г",
+        "link": "https://online.metro-cc.ru/products/nescafe-gold-rastvorimyj-130g-paket",
+        "common_price": "499",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "221902",
+        "name": "Кофе в капсулах Carraro Dolci arabica для кофемашин Nespresso 10шт, 55г",
+        "link": "https://online.metro-cc.ru/products/10shtx55g-kofe-carraro-v-alyum-kapsulah-dolci-arabica",
+        "common_price": "719",
+        "promo_price": "419",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226334",
+        "name": "Кофе в капсулах Carte Noire Riche Espresso для кофемашин Nespresso 10шт, 52г",
+        "link": "https://online.metro-cc.ru/products/10shth52g-kofe-carte-noire-riche-espresso-v-kapsulah",
+        "common_price": "499",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "243165",
+        "name": "RIOBA Кофе в капсулах Dolce Gusto Americano 16шт, 112г х 3 шт",
+        "link": "https://online.metro-cc.ru/products/rioba-kofe-v-kapsulah-dolce-gusto-americano-16sht-112g-h-3-sht",
+        "common_price": "отсутствует",
+        "promo_price": "1527",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "581767",
+        "name": "Кофе Carte Noire Original в зернах 800 г",
+        "link": "https://online.metro-cc.ru/products/carte-noire-v-zernah-naturalnyj-zharenyj-800g",
+        "common_price": "1539",
+        "promo_price": "1499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "253069",
+        "name": "Напиток кофейный MacCoffee Strong 3в1 порционный (18г x 50шт), 900г",
+        "link": "https://online.metro-cc.ru/products/50shth18g-napitok-kofeynyy-maccoffee-3v1-strong-portsionnyy",
+        "common_price": "отсутствует",
+        "promo_price": "899",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "125675",
+        "name": "Кофе Lebo Classic Extra молотый для турки, 100г",
+        "link": "https://online.metro-cc.ru/products/100g-lebo-extra-dlya-turki",
+        "common_price": "158",
+        "promo_price": "139",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228778",
+        "name": "Кофе Fresco Horeca arabica в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-fresco-horeca-arabica-zerno",
+        "common_price": "2099",
+        "promo_price": "1299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "218717",
+        "name": "Кофе Poetti Leggenda Espresso в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-poetti-leggenda-espresso-v-zernah",
+        "common_price": "2589",
+        "promo_price": "1499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "241842",
+        "name": "Кофе в капсулах Coffesso Latte Macchiato для кофемашин Dolce Gusto 16шт, 172г",
+        "link": "https://online.metro-cc.ru/products/8shth55g8shth16g-kofe-coffesso-latte-macchiato-kapsuly",
+        "common_price": "729",
+        "promo_price": "499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "241733",
+        "name": "Кофе Coffesso Massimo зерновой, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-coffesso-massimo-zerno",
+        "common_price": "1789",
+        "promo_price": "1299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226340",
+        "name": "Кофе Lebo Extra в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-lebo-extra-v-zernah",
+        "common_price": "1889",
+        "promo_price": "1499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "50642",
+        "name": "Кофе Жокей Caffe Italiano молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/art-50642",
+        "common_price": "309",
+        "promo_price": "289",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "221909",
+        "name": "Кофе в капсулах Lebo Espresso Crema для кофемашин Nespresso 40 шт, 220г",
+        "link": "https://online.metro-cc.ru/products/40shth55g-kofe-lebo-espresso-crema-banka",
+        "common_price": "1819",
+        "promo_price": "1299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "243161",
+        "name": "Кофе Живой кофе Rio-Rio Бразилия зерновой, 800г",
+        "link": "https://online.metro-cc.ru/products/800g-zhivoy-kofe-rio-rio-braziliya-zerno",
+        "common_price": "2389",
+        "promo_price": "1299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "469363",
+        "name": "Кофе Jardin Guatemala Atitlan натуральный растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/jardin-guatemala-atitlan-naturalnyj-95-g",
+        "common_price": "319",
+        "promo_price": "279",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "100813",
+        "name": "Кофе в капсулах Julius Meinl Lungo Classico Bio для кофемашин Nespresso 10шт, 56г",
+        "link": "https://online.metro-cc.ru/products/julius-meinl-lungo-classico-10-56g",
+        "common_price": "719",
+        "promo_price": "469",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "224738",
+        "name": "Кофе Monarch Original растворимый, 47.5г",
+        "link": "https://online.metro-cc.ru/products/475g-kofe-monarch-original-rastvorimyy-st",
+        "common_price": "229",
+        "promo_price": "199",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "272108",
+        "name": "Кофе Нескафе Gold Aroma Intenso растворимый, 500г",
+        "link": "https://online.metro-cc.ru/products/500g-kofe-neskafe-gold-aroma-intenso-rastvorimyy-paket",
+        "common_price": "1699",
+        "promo_price": "1199",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "534998",
+        "name": "Кофе Жокей Империал натуральный растворимый сублимированный, 150г",
+        "link": "https://online.metro-cc.ru/products/zhokej-imperial-150g",
+        "common_price": "369",
+        "promo_price": "329",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "221910",
+        "name": "Кофе в капсулах Lebo Espresso Italiano для кофемашин Nespresso 40шт, 220г",
+        "link": "https://online.metro-cc.ru/products/40shth55g-kofe-lebo-espresso-italiano-banka",
+        "common_price": "1819",
+        "promo_price": "1299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "266109",
+        "name": "Кофе Mehmet Efendi по-турецки молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/250g-kofe-mehmet-efendi-po-turetski-molotyy",
+        "common_price": "809",
+        "promo_price": "649",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226346",
+        "name": "Кофе в капсулах Lebo Latte macchiato для кофемашин Dolce Gusto 16шт, 172г",
+        "link": "https://online.metro-cc.ru/products/8shth65g8shth15g-kofe-lebo-latte-macchiato-v-kapsulah",
+        "common_price": "1119",
+        "promo_price": "599",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "415027",
+        "name": "Кофе Нескафе Голд растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/nescafe-gold-steklo-95g-415027",
+        "common_price": "339",
+        "promo_price": "309",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "219222",
+        "name": "Кофе Coferium White roast в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-coferium-white-roast-v-zernah",
+        "common_price": "3149",
+        "promo_price": "1199",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "611603",
+        "name": "Кофе Illy темная обжарка молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/illy-temnaya-obzharka-250g",
+        "common_price": "1599",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228781",
+        "name": "Кофе Fresco Liberty в зернах, 900г",
+        "link": "https://online.metro-cc.ru/products/900g-kofe-fresco-liberty-zerno",
+        "common_price": "1739",
+        "promo_price": "1199",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "241735",
+        "name": "Кофе Coffesso Crema зерновой, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-coffesso-crema-zerno",
+        "common_price": "2019",
+        "promo_price": "1199",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "217498",
+        "name": "Кофе Черная Карта молотый жареный, 250г",
+        "link": "https://online.metro-cc.ru/products/250g-kofe-chernaya-karta-molotyy-zharenyy",
+        "common_price": "261",
+        "promo_price": "229",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "218638",
+        "name": "Кофе Нескафе Классик растворимый, 190г",
+        "link": "https://online.metro-cc.ru/products/190g-kofe-nescafe-classic-rastvorimyy-stekl-banka",
+        "common_price": "519",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246522",
+        "name": "Кофе Egoiste Peru 10 капсул, 50г",
+        "link": "https://online.metro-cc.ru/products/kofe-egoiste-peru-10-kapsul-50g",
+        "common_price": "629",
+        "promo_price": "389",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228234",
+        "name": "Кофе Jardin Gold растворимый, 240г",
+        "link": "https://online.metro-cc.ru/products/240g-kofe-jardin-gold-rastvorimyy",
+        "common_price": "829",
+        "promo_price": "559",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "227973",
+        "name": "Кофе Fresco Arabica blend молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-fresco-arabica-blend-molotyy-250g",
+        "common_price": "369",
+        "promo_price": "349",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "611604",
+        "name": "Кофе Illy темная обжарка в зернах, 250г",
+        "link": "https://online.metro-cc.ru/products/v-zernah-illy-temnaya-obzharka-250g",
+        "common_price": "1649",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "624061",
+        "name": "Кофе Жокей классический в зернах, 900г",
+        "link": "https://online.metro-cc.ru/products/art-624061",
+        "common_price": "1169",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246090",
+        "name": "Кофе Живой кофе арабика зерновой, 800г",
+        "link": "https://online.metro-cc.ru/products/kofe-zhivoy-kofe-arabika-zernovoy-800g",
+        "common_price": "2099",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "119130",
+        "name": "Кофе Жокей Классический молотый, 450г",
+        "link": "https://online.metro-cc.ru/products/450g-zhokej-klassicheskij-mol",
+        "common_price": "629",
+        "promo_price": "519",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "215436",
+        "name": "Кофе Lebo Classic Original жареный в зернах, 100г",
+        "link": "https://online.metro-cc.ru/products/100g-kofe-lebo-original-zharenyy-v-zernah",
+        "common_price": "196",
+        "promo_price": "149",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249901",
+        "name": "Кофе Kaffa Fresco Narino растворимый сублимированный, 100г",
+        "link": "https://online.metro-cc.ru/products/kofe-kaffa-fresco-narino-rastvorimyy-sublimirovannyy-100g",
+        "common_price": "1529",
+        "promo_price": "999",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "218640",
+        "name": "Напиток кофейный Нескафе Капучино порционный растворимый (18г x 20шт), 360г",
+        "link": "https://online.metro-cc.ru/products/20shth18g-kofeynyy-nap-nescafe-kapuchino-ports-rastv",
+        "common_price": "769",
+        "promo_price": "499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "544095",
+        "name": "Кофе Жокей Традиционный в зернах, 900г",
+        "link": "https://online.metro-cc.ru/products/zhokej-tradicionnyj-900g",
+        "common_price": "1359",
+        "promo_price": "999",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "495117",
+        "name": "Кофе Нескафе Голд Бариста растворимый, 85г",
+        "link": "https://online.metro-cc.ru/products/nescafe-gold-v-rastvorimom-barista-85g",
+        "common_price": "499",
+        "promo_price": "329",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249930",
+        "name": "Кофе в капсулах Coffesso Crema Delicato для кофемашин Nespresso 10шт, 50г",
+        "link": "https://online.metro-cc.ru/products/kofe-v-kapsulah-coffesso-crema-delicato-dlya-kofemashin-nespresso-10sht-50g",
+        "common_price": "529",
+        "promo_price": "249",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228421",
+        "name": "Кофе Verle без кофеина 6 дрип-пакетов кофе из Гватемалы, 66г",
+        "link": "https://online.metro-cc.ru/products/6shth11g-kofe-verle-decaf-v-drip-paketah",
+        "common_price": "отсутствует",
+        "promo_price": "529",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "272107",
+        "name": "Кофе Нескафе Gold Alta Rica растворимый, 170г",
+        "link": "https://online.metro-cc.ru/products/170g-kofe-neskafe-gold-alta-rika-rastvorimyy-stb",
+        "common_price": "1399",
+        "promo_price": "469",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "255676",
+        "name": "Кофе Нескафе Gold Crema растворимый, 170г",
+        "link": "https://online.metro-cc.ru/products/kofe-nescafe-gold-crema-rastvorimyy-170g",
+        "common_price": "949",
+        "promo_price": "469",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226397",
+        "name": "Кофе Московская кофейня на паяхъ Суаре растворимый сублимированный, 95г",
+        "link": "https://online.metro-cc.ru/products/moskovskaya-kofejnya-na-payah-sublimirovannyj-suare-95g",
+        "common_price": "отсутствует",
+        "promo_price": "509",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "125674",
+        "name": "Кофе Lebo Classic молотый для турки, 100г",
+        "link": "https://online.metro-cc.ru/products/100g-lebo-classic-dlya-turki",
+        "common_price": "189",
+        "promo_price": "159",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246520",
+        "name": "Кофе Egoiste Ethiopia 10 капсул, 50г",
+        "link": "https://online.metro-cc.ru/products/kofe-egoiste-ethiopia-10-kapsul-50g",
+        "common_price": "719",
+        "promo_price": "389",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "528357",
+        "name": "Кофе Egoiste Platinum, 100г",
+        "link": "https://online.metro-cc.ru/products/egoiste-platinum-100-g",
+        "common_price": "1159",
+        "promo_price": "799",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "253072",
+        "name": "Напиток кофейный MacCoffee со сгущенным молоком 3в1 порционный (20г x 50шт), 1кг",
+        "link": "https://online.metro-cc.ru/products/50shth20g-napitok-kofeynyy-maccoffee-3v1-sgusch-mol-portsionnyy",
+        "common_price": "отсутствует",
+        "promo_price": "949",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "245942",
+        "name": "Кофе Живой кофе Эспрессо 12 капсул, 72г",
+        "link": "https://online.metro-cc.ru/products/kofe-zhivoy-kofe-espresso-12-kapsul-72g",
+        "common_price": "629",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246523",
+        "name": "Кофе Egoiste Decaffenato 10 капсул, 50г",
+        "link": "https://online.metro-cc.ru/products/kofe-egoiste-decaffenato-10-kapsul-50g",
+        "common_price": "689",
+        "promo_price": "389",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "227974",
+        "name": "Кофе Fresco Arabica solo молотый для чашек и турок, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-fresco-arabica-solo-molotyy-dlya-chashek-i-turok-250g",
+        "common_price": "539",
+        "promo_price": "349",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "227302",
+        "name": "Кофе Черная Карта молотый для турки, 250г",
+        "link": "https://online.metro-cc.ru/products/250-kofe-chernaya-karta-molotyy-dlya-turki",
+        "common_price": "449",
+        "promo_price": "229",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "271611",
+        "name": "Кофе Poetti Soul of Rome в капсулах (5.3г x 10шт), 53г",
+        "link": "https://online.metro-cc.ru/products/kofe-poetti-soul-of-rome-v-kapsulah-53g-x-10sht-53g",
+        "common_price": "769",
+        "promo_price": "349",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "224714",
+        "name": "Кофе Monarch Gold растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/95g-kofe-monarch-gold-rastvorimyy-st",
+        "common_price": "439",
+        "promo_price": "349",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226523",
+        "name": "Напиток кофейный MacCoffee Latte карамель порционный (22г x 20шт), 440г",
+        "link": "https://online.metro-cc.ru/products/20shth22g-kofe-maccoffee-latte-karamel-portsionnyy",
+        "common_price": "отсутствует",
+        "promo_price": "349",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "530967",
+        "name": "RIOBA Кофе в капсулах Forte для кофемашин Nespresso 11шт, 55г",
+        "link": "https://online.metro-cc.ru/products/rioba-dlya-kofemashin-forte-11x5g",
+        "common_price": "275",
+        "promo_price": "239",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "248730",
+        "name": "Кофе Monarch капучино растворимый (15г x 20шт), 300г",
+        "link": "https://online.metro-cc.ru/products/20shth15g-kofe-monarch-kapuchino-rastvorimyy",
+        "common_price": "739",
+        "promo_price": "499",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "459852",
+        "name": "Кофе Жокей Триумф растворимый сублимированный, 150г",
+        "link": "https://online.metro-cc.ru/products/zhokej-sublimirovannyj-triumf-150g",
+        "common_price": "349",
+        "promo_price": "329",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "99542",
+        "name": "Кофе Нескафе Голд Арома Интенсо растворимый, 85г",
+        "link": "https://online.metro-cc.ru/products/kofe-nescafe-gold-aroma-intens-rastvorimyj-poroshkoobraznyj-85-g",
+        "common_price": "579",
+        "promo_price": "289",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226345",
+        "name": "Кофе в капсулах Lebo Cappuccino для кофемашин Dolce Gusto 16шт, 172г",
+        "link": "https://online.metro-cc.ru/products/8shth65g8shth15g-kofe-lebo-cappuccino-v-kapsulah",
+        "common_price": "1119",
+        "promo_price": "599",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "223096",
+        "name": "Кофе в капсулах Absolut Drive Americano Original для кофемашин Dolce Gusto 16шт, 128г",
+        "link": "https://online.metro-cc.ru/products/16shth8g-kofe-absolut-amerikano-kapsuly-dg",
+        "common_price": "отсутствует",
+        "promo_price": "559",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226344",
+        "name": "Кофе в капсулах Lebo Americano для кофемашин Dolce Gusto 16шт, 136г",
+        "link": "https://online.metro-cc.ru/products/16shth85g-kofe-lebo-americano-v-kapsulah",
+        "common_price": "879",
+        "promo_price": "599",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "223100",
+        "name": "Кофе в капсулах Absolut Drive Cappuccino with milk для кофемашин Dolce Gusto 16шт, 184г",
+        "link": "https://online.metro-cc.ru/products/8shth6g8shth17g-kofe-absolut-kapuchino-kapsuly-dg",
+        "common_price": "отсутствует",
+        "promo_price": "549",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226467",
+        "name": "Кофе Alta Roma Caffe Latte молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-alta-roma-caffe-latte-molotiy-250g",
+        "common_price": "529",
+        "promo_price": "269",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "232419",
+        "name": "Кофе Jardin Guatemala Atitlan растворимый, 190г",
+        "link": "https://online.metro-cc.ru/products/190g-kofe-jardin-guatemala-atitlan-rastvorimyy-stb",
+        "common_price": "809",
+        "promo_price": "519",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228242",
+        "name": "Кофе Жокей Gold растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/95g-kofe-zhokey-gold-rastvorimyy-stb",
+        "common_price": "409",
+        "promo_price": "259",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "241845",
+        "name": "Кофе в капсулах Coffesso Americano Gold для кофемашин Dolce Gusto 16шт, 128г",
+        "link": "https://online.metro-cc.ru/products/16shth8g-kofe-coffesso-americano-gold-kapsuly",
+        "common_price": "729",
+        "promo_price": "449",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249892",
+        "name": "Кофе Coffesso Massimo молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-coffesso-massimo-molotyy-250g",
+        "common_price": "479",
+        "promo_price": "429",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226343",
+        "name": "Кофе Lebo Classic в зернах, 250г",
+        "link": "https://online.metro-cc.ru/products/250g-kofe-lebo-classic-v-zernah",
+        "common_price": "619",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "119134",
+        "name": "Кофе Jardin Columbia Supremo молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/250g-jardin-kolumbiya-supremo-mol",
+        "common_price": "479",
+        "promo_price": "389",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "232898",
+        "name": "Кофе D'Arte Original растворимый, 100г",
+        "link": "https://online.metro-cc.ru/products/100g-kofe-darte-original-rastvorimyy",
+        "common_price": "469",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "221903",
+        "name": "Кофе в капсулах Carraro Intenso для кофемашин Nespresso 10шт, 55г",
+        "link": "https://online.metro-cc.ru/products/10shtx55g-kofe-carraro-v-alyum-kapsulah-intenso",
+        "common_price": "719",
+        "promo_price": "419",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228230",
+        "name": "Кофе Jardin Original Oro молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/250g-kofe-jardin-original-oro-molotyy",
+        "common_price": "479",
+        "promo_price": "389",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249894",
+        "name": "Кофе Coffesso Allure молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-coffesso-allure-molotyy-250g",
+        "common_price": "429",
+        "promo_price": "359",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "271612",
+        "name": "Кофе Poetti Soul of Istanbul в капсулах (5.3г x 10шт), 53г",
+        "link": "https://online.metro-cc.ru/products/kofe-poetti-soul-of-istanbul-v-kapsulah-53g-x-10sht-53g",
+        "common_price": "769",
+        "promo_price": "349",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246092",
+        "name": "Кофе Живой кофе Rio-Rio молотый, 200г",
+        "link": "https://online.metro-cc.ru/products/200g-zhivoy-kofe-rio-rio-molotyy",
+        "common_price": "619",
+        "promo_price": "339",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "420359",
+        "name": "Кофе Жокей Триумф растворимый сублимированный, 95г",
+        "link": "https://online.metro-cc.ru/products/zhokej-triumf-95g",
+        "common_price": "349",
+        "promo_price": "259",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "238558",
+        "name": "Кофе Monarch Miligrano растворимый с молотым, 70г",
+        "link": "https://online.metro-cc.ru/products/kofe-monarch-miligrano-rastvorimyy-s-molotym-70g",
+        "common_price": "329",
+        "promo_price": "299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "469154",
+        "name": "Кофе Черная Карта Brasilia Exclusive растворимый сублимированный, 95г",
+        "link": "https://online.metro-cc.ru/products/chernaya-karta-sublimirovannyj-brasilia-exclusive-95g",
+        "common_price": "389",
+        "promo_price": "299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "256635",
+        "name": "Кофе Ambassador Platinum растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/95g-kofe-ambassador-platinum-rastvorimyy-stb",
+        "common_price": "509",
+        "promo_price": "279",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "245941",
+        "name": "Кофе Живой кофе арабика молотый, 200г",
+        "link": "https://online.metro-cc.ru/products/kofe-zhivoy-kofe-arabika-molotyy-200g",
+        "common_price": "409",
+        "promo_price": "269",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "258018",
+        "name": "Кофейный напиток Kopiko 3 в 1 Classic 20шт х 20г, 400г",
+        "link": "https://online.metro-cc.ru/products/kofeynyy-napitok-kopiko-3-v-1-classic-20sht-h-20g-400g",
+        "common_price": "285",
+        "promo_price": "259",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "70210",
+        "name": "Кофе Нескафе Классик растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/nescafe-classic-naturalnyj-st-b-95g",
+        "common_price": "329",
+        "promo_price": "239",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228244",
+        "name": "Кофе Жокей Фаворит растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/95g-kofe-zhokey-favorit-rastvorimyy-stb",
+        "common_price": "299",
+        "promo_price": "229",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "616531",
+        "name": "Кофе Жокей Фаворит растворимый гранулированный, 75г",
+        "link": "https://online.metro-cc.ru/products/zhokej-favorit-granulirovannyj150-g",
+        "common_price": "293",
+        "promo_price": "159",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228237",
+        "name": "Кофе Jardin Kenya Kilimanjaro растворимый, 75г",
+        "link": "https://online.metro-cc.ru/products/75g-kofe-jardin-keniya-kilimandzharo-rastvorimyy",
+        "common_price": "329",
+        "promo_price": "209",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228241",
+        "name": "Кофе Жокей Триумф растворимый, 75г",
+        "link": "https://online.metro-cc.ru/products/75g-kofe-zhokey-triumf-rastvorimyy",
+        "common_price": "241",
+        "promo_price": "179",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "241736",
+        "name": "Кофе Coffesso Allure зерновой, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-coffesso-allure-zerno",
+        "common_price": "2259",
+        "promo_price": "1249",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "107073",
+        "name": "Кофе Carraro Crema Italiano в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/v-zernah-caffe-carraro-crema-italiano-1-kg",
+        "common_price": "2399",
+        "promo_price": "2099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "611606",
+        "name": "Кофе Illy средней обжарки в зернах, 250г",
+        "link": "https://online.metro-cc.ru/products/v-zernah-illy-srednej-obzharki-250g",
+        "common_price": "1649",
+        "promo_price": "999",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "245944",
+        "name": "Кофе Vergnano Мокка арабика молотый, 250г",
+        "link": "https://online.metro-cc.ru/products/kofe-vergnano-mokka-arabika-molotyy-250g",
+        "common_price": "1569",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246066",
+        "name": "Кофе Alta Roma Blend №1, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-alta-roma-blend-1-zernovoy",
+        "common_price": "1569",
+        "promo_price": "1399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "120510",
+        "name": "RIOBA Кофе в капсулах Armonioso для кофемашин Nespresso 11шт, 55г x 10 шт",
+        "link": "https://online.metro-cc.ru/products/rioba-dlya-kofemashin-armonioso-10x5g-120510",
+        "common_price": "отсутствует",
+        "promo_price": "2750",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "235416",
+        "name": "Кофе Miscela D'Oro Espresso Robusto в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-miscela-doro-espresso-robusto-v-zernah-1kg",
+        "common_price": "1869",
+        "promo_price": "1599",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "599055",
+        "name": "Кофе Жокей Импер растворимый, 95г",
+        "link": "https://online.metro-cc.ru/products/art-599055",
+        "common_price": "349",
+        "promo_price": "259",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "120509",
+        "name": "RIOBA Кофе в капсулах Cremoso для кофемашин Nespresso 11шт, 55г x 10 шт",
+        "link": "https://online.metro-cc.ru/products/rioba-dlya-kofemashin-cremoso-11x5g-120509",
+        "common_price": "отсутствует",
+        "promo_price": "2750",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "117405",
+        "name": "Кофе в капсулах Julius Meinl Lungo Classico Bio для кофемашин Nespresso 10шт, 56г x 10 шт",
+        "link": "https://online.metro-cc.ru/products/56g-10-julius-meinl-v-biorazl-kaps-lungo-klassiko",
+        "common_price": "7790",
+        "promo_price": "4690",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "235415",
+        "name": "Кофе Miscela D'Oro Espresso Gusto Classico в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-miscela-doro-espresso-gusto-classico-v-zernah-1kg",
+        "common_price": "2649",
+        "promo_price": "2199",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "257435",
+        "name": "Кофе Italco Espresso Alpino Espresso Classic зерновой, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-italco-espresso-alpino-espresso-classic-zerno",
+        "common_price": "2849",
+        "promo_price": "2299",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226524",
+        "name": "Напиток кофейный MacCoffee Capuccino Dolce Vita порционный (24г x 20шт), 480г",
+        "link": "https://online.metro-cc.ru/products/20shth24g-kofe-maccoffee-cappuccino-dolce-vita-portsionnyy",
+        "common_price": "отсутствует",
+        "promo_price": "349",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "120511",
+        "name": "RIOBA Кофе в капсулах Decaffeinato без кофеина для кофемашин Nespresso 11шт, 55г x 10 шт",
+        "link": "https://online.metro-cc.ru/products/rioba-dlya-kofemashin-decaffein-11x5g-120511",
+        "common_price": "отсутствует",
+        "promo_price": "2750",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "223097",
+        "name": "Кофе в капсулах Absolut Drive Espresso Original для кофемашин Dolce Gusto 16шт, 96г",
+        "link": "https://online.metro-cc.ru/products/16shth6g-kofe-absolut-espresso-kapsuly-dg",
+        "common_price": "отсутствует",
+        "promo_price": "549",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "29181",
+        "name": "Кофе Нескафе Голд растворимый сублимированный с добавлением натурального жареного молотого кофе, 750г x 6 шт",
+        "link": "https://online.metro-cc.ru/products/nescafe-gold-rastvorimyj-sublimirovannyj-750g",
+        "common_price": "15594",
+        "promo_price": "10194",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228231",
+        "name": "Кофе Piazza del Caffe Crema Vellutata в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-kofe-piazza-del-caffe-crema-vellutata-zerno",
+        "common_price": "1169",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "249900",
+        "name": "Кофе Fresco Arabica Barista в зернах, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-fresco-arabica-barista-v-zernah-1kg",
+        "common_price": "1389",
+        "promo_price": "1099",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "8359",
+        "name": "RIOBA Кофе в капсулах Dolce Gusto Grande Intenso 16шт, 112г",
+        "link": "https://online.metro-cc.ru/products/rioba-dolce-gusto-grande-intenso-16sht",
+        "common_price": "509",
+        "promo_price": "429",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246502",
+        "name": "Кофе Bushido Sensei зерновой, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-bushido-sensei-zernovoy-1kg",
+        "common_price": "2899",
+        "promo_price": "1899",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "637203",
+        "name": "Кофе в капсулах L’or Espresso Lungo Profondo для кофемашин Nespresso 10шт, 52г",
+        "link": "https://online.metro-cc.ru/products/l-rsquoor-lungo-profondo-52-g",
+        "common_price": "429",
+        "promo_price": "379",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "245946",
+        "name": "Кофе Vergnano Эспрессо зерновой, 1кг",
+        "link": "https://online.metro-cc.ru/products/kofe-vergnano-espresso-zernovoy-1kg",
+        "common_price": "4299",
+        "promo_price": "2599",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "262878",
+        "name": "Набор кофе Jardin в капсулах 5 видов (5.5г x 4шт) + (5г x 16шт), 102г",
+        "link": "https://online.metro-cc.ru/products/4shth55g16shth5g-kofe-jardin-nabor-5-vidov-kapsuly",
+        "common_price": "отсутствует",
+        "promo_price": "689",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "246091",
+        "name": "Кофе Живой кофе мокка молотый, 200г",
+        "link": "https://online.metro-cc.ru/products/kofe-zhivoy-kofe-mokka-molotyy-200g",
+        "common_price": "619",
+        "promo_price": "339",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "254706",
+        "name": "Напиток кофейный MacCoffee 3в1 растворимый, 20г x 100 шт",
+        "link": "https://online.metro-cc.ru/products/20g-napitok-kofeynyy-maccoffee-3v1-rastvorimyy-254706",
+        "common_price": "отсутствует",
+        "promo_price": "1789",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228240",
+        "name": "Кофе Жокей Триумф растворимый, 280г",
+        "link": "https://online.metro-cc.ru/products/280g-kofe-zhokey-triumf-rastvorimyy",
+        "common_price": "829",
+        "promo_price": "629",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "226335",
+        "name": "Кофе в капсулах Carte Noire Lungo Profond для кофемашин Nespresso 10шт, 52г",
+        "link": "https://online.metro-cc.ru/products/10shth52g-kofe-carte-noire-lungo-profond-v-kapsulah",
+        "common_price": "499",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "254708",
+        "name": "Напиток кофейный MacCoffee Cappuccino Di Torino 3в1 растворимый, 25.5г",
+        "link": "https://online.metro-cc.ru/products/255g-nap-kofeynyy-maccoffee-cappuccino-di-torino-3v1-rastv-254708",
+        "common_price": "отсутствует",
+        "promo_price": "28",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "245943",
+        "name": "Кофе Живой кофе Капучино 12 капсул, 138г",
+        "link": "https://online.metro-cc.ru/products/kofe-zhivoy-kofe-kapuchino-12-kapsul-138g",
+        "common_price": "629",
+        "promo_price": "399",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "228243",
+        "name": "Кофе Жокей Imperial растворимый, 75г",
+        "link": "https://online.metro-cc.ru/products/75g-kofe-zhokey-imper-rastvorimyy",
+        "common_price": "229",
+        "promo_price": "179",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "238894",
+        "name": "Кофе Jardin Американо 3в1 (15г x 8шт), 120г",
+        "link": "https://online.metro-cc.ru/products/8shth15g-kofe-jardin-amerikano-3v1",
+        "common_price": "отсутствует",
+        "promo_price": "257",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "254690",
+        "name": "Напиток кофейный MacCoffee 3в1 растворимый, 20г",
+        "link": "https://online.metro-cc.ru/products/20g-napitok-kofeynyy-maccoffee-3v1-rastvorimyy-254690",
+        "common_price": "отсутствует",
+        "promo_price": "17",
         "brand": "Без бренда"
     }
 ]

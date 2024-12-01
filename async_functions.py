@@ -108,8 +108,8 @@ async def parse_page(page_number: int, base_url: str, session: aiohttp.ClientSes
             "id": product_id,
             "name": product_name,
             "link": full_product_link,
-            "old_price": old_price,
-            "actual_price": actual_price,
+            "common_price": old_price,
+            "promo_price": actual_price,
             "brand": "Без бренда"  
         })
 
@@ -135,7 +135,7 @@ async def parse_all_pages(base_url: str):
     async with aiohttp.ClientSession() as session:
         page = 1
         while True:
-            print(f"Асинхроный парсинг страницы {page}...")
+            print(f"Асинхронный парсинг страницы {page}...")
             found_products = await parse_page(page, base_url, session, products)
             if found_products == -1:
                 break

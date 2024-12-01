@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 import re
 
-# В этом файле функции парсера
+# В этом файле синхронные функции парсера
 def parsing_brand(url: str) -> str:
     """
     Извлекает название бренда продукта по переданной ссылке.
