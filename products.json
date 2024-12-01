@@ -5,7 +5,7 @@
         "link": "https://online.metro-cc.ru/products/murmanskij-file-na-kozhe-trimm-a",
         "old_price": "3779",
         "actual_price": "3489",
-        "brand": "Без бренда"
+        "brand": "INARCTICA"
     },
     {
         "id": "378227",
@@ -21,7 +21,15 @@
         "link": "https://online.metro-cc.ru/products/losos-murmanskij-5-6kg-inarctica",
         "old_price": "2999",
         "actual_price": "2699",
-        "brand": "INARCTICA"
+        "brand": "Без бренда"
+    },
+    {
+        "id": "272078",
+        "name": "Форель озерная потрошеная с головой охлажденная, ~1-2кг",
+        "link": "https://online.metro-cc.ru/products/1-2kg-forel-ozernaya-psg-okhl",
+        "old_price": "1199",
+        "actual_price": "1099",
+        "brand": "Без бренда"
     },
     {
         "id": "320046",
@@ -77,14 +85,6 @@
         "link": "https://online.metro-cc.ru/products/forel-raduzhnaya-potroshenaya-s-golovoy-kirgiziya-ohlazhdennaya-3-4kg",
         "old_price": "1599",
         "actual_price": "1559",
-        "brand": "Без бренда"
-    },
-    {
-        "id": "250844",
-        "name": "Филе горной форели охлажденное",
-        "link": "https://online.metro-cc.ru/products/file-gornoy-foreli-ohlazhdennoe",
-        "old_price": "отсутствует",
-        "actual_price": "2489",
         "brand": "Без бренда"
     },
     {
@@ -168,14 +168,6 @@
         "brand": "INARCTICA"
     },
     {
-        "id": "272078",
-        "name": "Форель озерная потрошеная с головой охлажденная, ~1-2кг",
-        "link": "https://online.metro-cc.ru/products/1-2kg-forel-ozernaya-psg-okhl",
-        "old_price": "1199",
-        "actual_price": "1099",
-        "brand": "Без бренда"
-    },
-    {
         "id": "259560",
         "name": "Форель Inarctica Морская мурманская охлажденная, ~0.1-1кг",
         "link": "https://online.metro-cc.ru/products/forel-inarctica-morskaya-murmanskaya-ohlazhdennaya-01-1kg",
@@ -208,27 +200,11 @@
         "brand": "Без бренда"
     },
     {
-        "id": "659075",
-        "name": "Камбала без головы икряная",
-        "link": "https://online.metro-cc.ru/products/kambala-ikryanaya-bez-golovy",
-        "old_price": "789",
-        "actual_price": "749",
-        "brand": "Без бренда"
-    },
-    {
         "id": "93036",
         "name": "Судак неразделанный, ~500г",
         "link": "https://online.metro-cc.ru/products/sudak-krupnyj-nerazdelannyj-93036",
         "old_price": "799",
         "actual_price": "759",
-        "brand": "Без бренда"
-    },
-    {
-        "id": "256585",
-        "name": "Сазан филе на коже, ~300г",
-        "link": "https://online.metro-cc.ru/products/300g-sazan-file-nk",
-        "old_price": "949",
-        "actual_price": "849",
         "brand": "Без бренда"
     },
     {
@@ -296,6 +272,14 @@
         "brand": "Без бренда"
     },
     {
+        "id": "659075",
+        "name": "Камбала без головы икряная",
+        "link": "https://online.metro-cc.ru/products/kambala-ikryanaya-bez-golovy",
+        "old_price": "789",
+        "actual_price": "749",
+        "brand": "Без бренда"
+    },
+    {
         "id": "260170",
         "name": "Форель стейки охлажденные, ~300-600г",
         "link": "https://online.metro-cc.ru/products/forel-prihvostnaya-chast",
@@ -312,11 +296,27 @@
         "brand": "Без бренда"
     },
     {
+        "id": "256585",
+        "name": "Сазан филе на коже, ~300г",
+        "link": "https://online.metro-cc.ru/products/300g-sazan-file-nk",
+        "old_price": "949",
+        "actual_price": "849",
+        "brand": "Без бренда"
+    },
+    {
         "id": "274361",
         "name": "Форель Inarctica Мурманская охлажденная ORD, ~0.1-1кг",
         "link": "https://online.metro-cc.ru/products/01-1kg-forel-murmanskaya-inarctica-ord-ohl",
         "old_price": "599",
         "actual_price": "499",
-        "brand": "INARCTICA"
+        "brand": "Без бренда"
+    },
+    {
+        "id": "274361",
+        "name": "Форель Inarctica Мурманская охлажденная ORD, ~0.1-1кг",
+        "link": "https://online.metro-cc.ru/products/01-1kg-forel-murmanskaya-inarctica-ord-ohl",
+        "old_price": "599",
+        "actual_price": "499",
+        "brand": "Без бренда"
     }
 ]
