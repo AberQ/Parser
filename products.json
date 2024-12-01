@@ -24,14 +24,6 @@
         "brand": "INARCTICA"
     },
     {
-        "id": "131577",
-        "name": "Форель филе на коже горная",
-        "link": "https://online.metro-cc.ru/products/file-na-kozhe-osetiya",
-        "old_price": "отсутствует",
-        "actual_price": "2499",
-        "brand": "Без бренда"
-    },
-    {
         "id": "320046",
         "name": "Тунец красный филе, ~0.7-1.2кг",
         "link": "https://online.metro-cc.ru/products/tunec-krasnyj-file-07-12kg",
@@ -40,28 +32,12 @@
         "brand": "Без бренда"
     },
     {
-        "id": "259560",
-        "name": "Форель Inarctica Морская мурманская охлажденная, ~0.1-1кг",
-        "link": "https://online.metro-cc.ru/products/forel-inarctica-morskaya-murmanskaya-ohlazhdennaya-01-1kg",
-        "old_price": "999",
-        "actual_price": "799",
-        "brand": "INARCTICA"
-    },
-    {
         "id": "219511",
         "name": "Форель Inarctica морская ORD охлажденная, ~5-6кг",
         "link": "https://online.metro-cc.ru/products/5-6kg-forel-morskaya-inarctica-ord",
         "old_price": "1729",
         "actual_price": "1599",
         "brand": "INARCTICA"
-    },
-    {
-        "id": "340202",
-        "name": "Форель Карельская потрошеная с головой",
-        "link": "https://online.metro-cc.ru/products/forel-karelskaya-1-2kg",
-        "old_price": "отсутствует",
-        "actual_price": "1119",
-        "brand": "Без бренда"
     },
     {
         "id": "142893",
@@ -136,14 +112,6 @@
         "brand": "Без бренда"
     },
     {
-        "id": "659075",
-        "name": "Камбала без головы икряная",
-        "link": "https://online.metro-cc.ru/products/kambala-ikryanaya-bez-golovy",
-        "old_price": "789",
-        "actual_price": "749",
-        "brand": "Без бренда"
-    },
-    {
         "id": "572308",
         "name": "Форель живая",
         "link": "https://online.metro-cc.ru/products/forel-572308",
@@ -152,11 +120,11 @@
         "brand": "Без бренда"
     },
     {
-        "id": "93036",
-        "name": "Судак неразделанный, ~500г",
-        "link": "https://online.metro-cc.ru/products/sudak-krupnyj-nerazdelannyj-93036",
-        "old_price": "799",
-        "actual_price": "759",
+        "id": "572309",
+        "name": "Карп живой",
+        "link": "https://online.metro-cc.ru/products/karp-zhivoj",
+        "old_price": "отсутствует",
+        "actual_price": "579",
         "brand": "Без бренда"
     },
     {
@@ -174,6 +142,14 @@
         "old_price": "1979",
         "actual_price": "1669",
         "brand": "INARCTICA"
+    },
+    {
+        "id": "131577",
+        "name": "Форель филе на коже горная",
+        "link": "https://online.metro-cc.ru/products/file-na-kozhe-osetiya",
+        "old_price": "отсутствует",
+        "actual_price": "2499",
+        "brand": "Без бренда"
     },
     {
         "id": "510530",
@@ -200,11 +176,27 @@
         "brand": "Без бренда"
     },
     {
+        "id": "259560",
+        "name": "Форель Inarctica Морская мурманская охлажденная, ~0.1-1кг",
+        "link": "https://online.metro-cc.ru/products/forel-inarctica-morskaya-murmanskaya-ohlazhdennaya-01-1kg",
+        "old_price": "999",
+        "actual_price": "799",
+        "brand": "INARCTICA"
+    },
+    {
         "id": "435035",
         "name": "Треска потрошеная без головы охлажденная, ~1-2кг",
         "link": "https://online.metro-cc.ru/products/treska-potroshennaya-bez-golovy-1kg",
         "old_price": "779",
         "actual_price": "599",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "340202",
+        "name": "Форель Карельская потрошеная с головой",
+        "link": "https://online.metro-cc.ru/products/forel-karelskaya-1-2kg",
+        "old_price": "отсутствует",
+        "actual_price": "1119",
         "brand": "Без бренда"
     },
     {
@@ -216,11 +208,19 @@
         "brand": "Без бренда"
     },
     {
-        "id": "572309",
-        "name": "Карп живой",
-        "link": "https://online.metro-cc.ru/products/karp-zhivoj",
-        "old_price": "отсутствует",
-        "actual_price": "579",
+        "id": "659075",
+        "name": "Камбала без головы икряная",
+        "link": "https://online.metro-cc.ru/products/kambala-ikryanaya-bez-golovy",
+        "old_price": "789",
+        "actual_price": "749",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "93036",
+        "name": "Судак неразделанный, ~500г",
+        "link": "https://online.metro-cc.ru/products/sudak-krupnyj-nerazdelannyj-93036",
+        "old_price": "799",
+        "actual_price": "759",
         "brand": "Без бренда"
     },
     {
