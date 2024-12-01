@@ -142,7 +142,7 @@ async def parse_all_pages(base_url: str):
             total_products += found_products
             page += 1
 
-    # Сохранение данных в JSON
+    
     async with aiofiles.open("products.json", "w", encoding="utf-8") as file:
         await file.write(json.dumps(products, ensure_ascii=False, indent=4))
 
